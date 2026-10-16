@@ -1,3 +1,10 @@
 {
-  "csv_urls": []
+  "csv_urls": [],
+  "reference_pages": [
+    {
+      "shop": "スーパーマツモト",
+      "url": "https://www.super-matsumoto.co.jp/stores/",
+      "auto_import": false
+    }
+  ]
 }
