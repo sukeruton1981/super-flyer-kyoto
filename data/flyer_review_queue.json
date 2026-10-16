@@ -1,0 +1,121 @@
+{
+  "generated_at_jst": "2026-10-16T20:18:49+09:00",
+  "image_links": 13,
+  "confirmed_flyer_dates": 2,
+  "ready_for_automatic_product_price_import": 0,
+  "note": "Flyer-level dates do not prove individual product validity; no OCR or prices imported.",
+  "items": [
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "confirmed_flyer_level",
+      "offer_import_allowed": false,
+      "flyer_valid_from": "2026-10-15",
+      "flyer_valid_to": "2026-10-16",
+      "evidence": "ユーザー提供のチラシ画像。掲載期間10月15〜16日。一部商品は16日限定。",
+      "product_level_dates_confirmed": false,
+      "review_priority": "current_flyer"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759029_1157452_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "confirmed_flyer_level",
+      "offer_import_allowed": false,
+      "flyer_valid_from": "2026-10-01",
+      "flyer_valid_to": "2026-10-31",
+      "evidence": "ユーザー提供のチラシ画像。売出期間10月1〜31日。",
+      "product_level_dates_confirmed": false,
+      "review_priority": "current_flyer"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9740749_974282_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9740750_977653_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9740878_1171951_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9740879_1237603_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9751213_1103845_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9751214_1215401_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9757630_1044358_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9757631_850431_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9757673_1035479_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9757674_1123758_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759028_1214828_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    }
+  ]
+}
