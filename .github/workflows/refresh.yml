@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name 'flyer-update-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add data/flyer_review_queue.json flyer_review.html data/discovered_flyers.json data/source_health.json index.html data/price_history.json data/update_status.json data/flyer_ocr_review.json flyer_ocr_review.html data/product_candidates_review.json product_candidates_review.html data/flyer_fulltext_layout_review.json flyer_fulltext_layout_review.html data/product_price_pairs_review.json product_price_pairs_review.html
+          git add data/flyer_review_queue.json flyer_review.html data/discovered_flyers.json data/source_health.json index.html data/price_history.json data/update_status.json data/flyer_ocr_review.json flyer_ocr_review.html data/product_candidates_review.json product_candidates_review.html data/flyer_fulltext_layout_review.json flyer_fulltext_layout_review.html data/product_price_pairs_review.json product_price_pairs_review.html data/ranked_offer_candidates.json ranked_offer_candidates.html
           if ! git diff --cached --quiet; then
             git commit -m "Daily flyer verification"
             git pull --rebase origin main
