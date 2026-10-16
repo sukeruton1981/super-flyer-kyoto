@@ -1,0 +1,23 @@
+{
+  "csv_urls": [],
+  "reference_pages": [
+    {
+      "shop": "スーパーマツモト（久世店などの店舗・チラシ一覧）",
+      "url": "https://www.super-matsumoto.co.jp/stores/",
+      "type": "official_flyer_directory",
+      "price_auto_import": false
+    },
+    {
+      "shop": "万代（長岡京店などの店舗・チラシ検索）",
+      "url": "https://www.mandai-net.co.jp/store/",
+      "type": "official_flyer_directory",
+      "price_auto_import": false
+    },
+    {
+      "shop": "業務スーパー（久御山周辺などの店舗検索）",
+      "url": "https://origin.gyomusuper.jp/shop/",
+      "type": "official_store_directory",
+      "price_auto_import": false
+    }
+  ]
+}
