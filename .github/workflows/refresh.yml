@@ -17,7 +17,8 @@ jobs:
       - run: TZ=Asia/Tokyo python scripts/import_verified.py    
       - run: TZ=Asia/Tokyo python scripts/update.py
       - run: TZ=Asia/Tokyo python scripts/check_sources.py
-      - run: TZ=Asia/Tokyo python scripts/discover_flyers.py  
+      - run: TZ=Asia/Tokyo python scripts/discover_flyers.py
+      - run: TZ=Asia/Tokyo python scripts/build_flyer_review.py
       - name: Commit updated files
         run: |
           git config user.name 'flyer-update-bot'
