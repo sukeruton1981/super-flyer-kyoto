@@ -1,0 +1,16 @@
+{
+  "flyers": [
+    {
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
+      "flyer_valid_from": "2026-10-15",
+      "flyer_valid_to": "2026-10-16",
+      "evidence": "ユーザー提供のチラシ画像。掲載期間10月15〜16日。一部商品は16日限定。"
+    },
+    {
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759029_1157452_0.jpg",
+      "flyer_valid_from": "2026-10-01",
+      "flyer_valid_to": "2026-10-31",
+      "evidence": "ユーザー提供のチラシ画像。売出期間10月1〜31日。"
+    }
+  ]
+}
