@@ -1,0 +1,4369 @@
+{
+  "generated_at_jst": "2026-10-16T23:24:38+09:00",
+  "stage": "RULE_FILTERED_PRICE_REVIEW_ONLY",
+  "verified_products": 0,
+  "published_offers": 0,
+  "note": "OCR and package/photo separation are not verified. Numbers and nearest words can still be wrong.",
+  "flyers": [
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
+      "source_status": "ocr_generated_unverified",
+      "candidate_count": 38,
+      "with_name_count": 36,
+      "candidates": [
+        {
+          "raw_text": "mee | 16’ 31s |",
+          "number_candidates": [
+            16,
+            31
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "o7",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "し ー ケニー ンー",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "し ー ケニー ンー",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1 あっ さり",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "対象 外 で す 。|",
+              "category_hint": null,
+              "distance_px": 57.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "ネ レ",
+              "category_hint": null,
+              "distance_px": 143.8,
+              "review_score": 49
+            },
+            {
+              "text_unverified": "エー マー",
+              "category_hint": null,
+              "distance_px": 143.1,
+              "review_score": 48
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "42",
+          "number_candidates": [
+            42
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7.",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 十 六 茶",
+              "category_hint": null,
+              "distance_px": 184.0,
+              "review_score": 43
+            },
+            {
+              "text_unverified": "@ ぎ ぎゅ っ と 濃い 十 六花",
+              "category_hint": null,
+              "distance_px": 220.0,
+              "review_score": 36
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "m4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ネ レ",
+              "category_hint": null,
+              "distance_px": 67.0,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "1 あっ さり",
+              "category_hint": null,
+              "distance_px": 104.0,
+              "review_score": 56
+            },
+            {
+              "text_unverified": "と うる",
+              "category_hint": null,
+              "distance_px": 96.9,
+              "review_score": 55
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 十 六 茶",
+              "category_hint": null,
+              "distance_px": 200.3,
+              "review_score": 40
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 十 六 茶",
+              "category_hint": null,
+              "distance_px": 87.7,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "@ ぎ ぎゅ っ と 濃い 十 六花",
+              "category_hint": null,
+              "distance_px": 118.0,
+              "review_score": 53
+            },
+            {
+              "text_unverified": "@ 十 六 散 麦 茶",
+              "category_hint": null,
+              "distance_px": 152.0,
+              "review_score": 45
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1 o —",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 十 六 茶",
+              "category_hint": null,
+              "distance_px": 40.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "@ ぎ ぎゅ っ と 濃い 十 六花",
+              "category_hint": null,
+              "distance_px": 76.0,
+              "review_score": 60
+            },
+            {
+              "text_unverified": "@ 十 六 散 麦 茶",
+              "category_hint": null,
+              "distance_px": 110.0,
+              "review_score": 52
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1 |",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 生 めろん ば ん",
+              "category_hint": null,
+              "distance_px": 124.8,
+              "review_score": 52
+            },
+            {
+              "text_unverified": "(し ょ こら ・ ク ラウ ン メ ロン 〉",
+              "category_hint": null,
+              "distance_px": 137.0,
+              "review_score": 51
+            },
+            {
+              "text_unverified": "@ 生 あん ば ん ほ い つぶ",
+              "category_hint": null,
+              "distance_px": 160.0,
+              "review_score": 47
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "99",
+          "number_candidates": [
+            99
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "くり ぃ お ば ぱ ば ん ほ い つぶ",
+              "category_hint": null,
+              "distance_px": 55.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "くま お いも あん ば ん ほ い っ ぶ",
+              "category_hint": null,
+              "distance_px": 57.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "(し ょ こら ・ ク ラウ ン メ ロン 〉",
+              "category_hint": null,
+              "distance_px": 66.0,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "音 /(66Om2) =",
+          "number_candidates": [
+            66,
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 十 六 散 麦 茶",
+              "category_hint": null,
+              "distance_px": 1.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "スフレ ンド",
+              "category_hint": null,
+              "distance_px": 5.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "@ ぎ ぎゅ っ と 濃い 十 六花",
+              "category_hint": null,
+              "distance_px": 22.0,
+              "review_score": 69
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "くま お いも あん ば ん ほ い っ ぶ",
+              "category_hint": null,
+              "distance_px": 112.3,
+              "review_score": 54
+            },
+            {
+              "text_unverified": "くり ぃ お ば ぱ ば ん ほ い つぶ",
+              "category_hint": null,
+              "distance_px": 164.7,
+              "review_score": 45
+            },
+            {
+              "text_unverified": "@ 生 あん ば ん ほ い つぶ",
+              "category_hint": null,
+              "distance_px": 171.0,
+              "review_score": 45
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "スフレ ンド",
+              "category_hint": null,
+              "distance_px": 169.0,
+              "review_score": 43
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t14",
+          "number_candidates": [
+            2,
+            1,
+            137,
+            213,
+            1380,
+            56
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "トー",
+              "category_hint": null,
+              "distance_px": 166.7,
+              "review_score": 41
+            },
+            {
+              "text_unverified": "AO つぶ",
+              "category_hint": null,
+              "distance_px": 186.9,
+              "review_score": 38
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "京 小町 絹 3、",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "いち お し キム チュ",
+              "category_hint": null,
+              "distance_px": 153.0,
+              "review_score": 49
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3 種 の ナッ ツ",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "アニ モン ド",
+              "category_hint": null,
+              "distance_px": 13.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "⑯ オ リ ジ ナ ル 人 @ 砂 搬 不 使用",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "Oty ド",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(2 203.047)",
+          "number_candidates": [
+            2,
+            203,
+            47
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "⑯ オ リ ジ ナ ル 人 @ 砂 搬 不 使用",
+              "category_hint": null,
+              "distance_px": 35.1,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ゃ キャ ベツ が",
+              "category_hint": null,
+              "distance_px": 47.8,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "アニ モン ド",
+              "category_hint": null,
+              "distance_px": 48.8,
+              "review_score": 66
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(86 181.44F)",
+          "number_candidates": [
+            86,
+            181,
+            44
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "いち お し キム チュ",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "ゃ キャ ベツ が",
+              "category_hint": null,
+              "distance_px": 48.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ーー]",
+              "category_hint": null,
+              "distance_px": 29.0,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "#/(200me)",
+          "number_candidates": [
+            200
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "3 種 の ナッ ツ",
+              "category_hint": null,
+              "distance_px": 8.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "Oty ド",
+              "category_hint": null,
+              "distance_px": 3.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "⑯ オ リ ジ ナ ル 人 @ 砂 搬 不 使用",
+              "category_hint": null,
+              "distance_px": 25.0,
+              "review_score": 67
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(税込 32 1.84 円 )",
+          "number_candidates": [
+            32,
+            1,
+            84
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "京 小町 絹 3、",
+              "category_hint": null,
+              "distance_px": 101.5,
+              "review_score": 55
+            },
+            {
+              "text_unverified": "マテ",
+              "category_hint": null,
+              "distance_px": 170.7,
+              "review_score": 44
+            },
+            {
+              "text_unverified": "じゃ フ",
+              "category_hint": null,
+              "distance_px": 205.0,
+              "review_score": 38
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "税込 95.04 円 )",
+          "number_candidates": [
+            95,
+            4
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "いち お し キム チュ",
+              "category_hint": null,
+              "distance_px": 33.7,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "京 小町 絹 3、",
+              "category_hint": null,
+              "distance_px": 30.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "マテ",
+              "category_hint": null,
+              "distance_px": 209.0,
+              "review_score": 38
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3b",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "マテ",
+              "category_hint": null,
+              "distance_px": 33.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "醤油 (0g)",
+              "category_hint": "加工食品",
+              "distance_px": 144.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "山 米 菓",
+              "category_hint": null,
+              "distance_px": 92.0,
+              "review_score": 57
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "300 枚 ・150 組 )",
+          "number_candidates": [
+            150
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "デイ |",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "プラ だ バ BOX",
+              "category_hint": null,
+              "distance_px": 14.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "の マ",
+              "category_hint": null,
+              "distance_px": 99.0,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "昔 /(14 投 入 )",
+          "number_candidates": [
+            14
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ゅ チョ コチ ッ プ クッ キー",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "ヨイ ス @ ム ー ン ライ ト .",
+              "category_hint": null,
+              "distance_px": 1.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "ゅ ホワ イト チョ",
+              "category_hint": null,
+              "distance_px": 9.0,
+              "review_score": 71
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ao5n",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "醤油 (0g)",
+              "category_hint": "加工食品",
+              "distance_px": 4.0,
+              "review_score": 87
+            },
+            {
+              "text_unverified": "山 米 菓",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "マテ",
+              "category_hint": null,
+              "distance_px": 67.0,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(7 sce)",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "タオ ル",
+              "category_hint": null,
+              "distance_px": 57.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "キッ チン",
+              "category_hint": null,
+              "distance_px": 83.0,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "の マ",
+              "category_hint": null,
+              "distance_px": 67.2,
+              "review_score": 60
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "5;",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "醤油 (0g)",
+              "category_hint": "加工食品",
+              "distance_px": 66.0,
+              "review_score": 76
+            },
+            {
+              "text_unverified": "山 米 菓",
+              "category_hint": null,
+              "distance_px": 92.2,
+              "review_score": 57
+            },
+            {
+              "text_unverified": "マテ",
+              "category_hint": null,
+              "distance_px": 131.9,
+              "review_score": 50
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ieee) (税込 名 105.84",
+          "number_candidates": [
+            105,
+            84
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "醤油 (0g)",
+              "category_hint": "加工食品",
+              "distance_px": 92.1,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "See は",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "じゃ フ",
+              "category_hint": null,
+              "distance_px": 107.0,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "oS 6s) (#A%138.24F)",
+          "number_candidates": [
+            6,
+            138,
+            24
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "醤油 (0g)",
+              "category_hint": "加工食品",
+              "distance_px": 5.0,
+              "review_score": 87
+            },
+            {
+              "text_unverified": "ゃ アー モン ドク ッ キー",
+              "category_hint": null,
+              "distance_px": 39.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "ゅ チョ コチ ッ プ クッ キー",
+              "category_hint": null,
+              "distance_px": 41.4,
+              "review_score": 67
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3s 新 秋 イ oy",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "iy 写真 は イメ ー ジ で の",
+              "category_hint": null,
+              "distance_px": 21.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+              "category_hint": null,
+              "distance_px": 112.0,
+              "review_score": 53
+            },
+            {
+              "text_unverified": "300 枚 ・150 組 )",
+              "category_hint": null,
+              "distance_px": 184.0,
+              "review_score": 41
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "5",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ックス",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 75
+            },
+            {
+              "text_unverified": "件 内",
+              "category_hint": null,
+              "distance_px": 24.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "ーー スト ラリ ア 産",
+              "category_hint": null,
+              "distance_px": 52.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "Sa 3537 24m)",
+          "number_candidates": [
+            3537,
+            24
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "(7 種 15 品 )",
+              "category_hint": null,
+              "distance_px": 34.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "お で",
+              "category_hint": null,
+              "distance_px": 34.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "中 国産",
+              "category_hint": null,
+              "distance_px": 112.0,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(ea 753.846",
+          "number_candidates": [
+            753,
+            846
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "えび フラ イ",
+              "category_hint": "鮮魚",
+              "distance_px": 68.0,
+              "review_score": 81
+            },
+            {
+              "text_unverified": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+              "category_hint": null,
+              "distance_px": 49.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "3s 新 秋 イ oy",
+              "category_hint": null,
+              "distance_px": 179.6,
+              "review_score": 37
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+          "number_candidates": [
+            4,
+            5,
+            300,
+            24
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "3s 新 秋 イ oy",
+              "category_hint": null,
+              "distance_px": 112.0,
+              "review_score": 48
+            },
+            {
+              "text_unverified": "iy 写真 は イメ ー ジ で の",
+              "category_hint": null,
+              "distance_px": 203.0,
+              "review_score": 38
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "($4278.647)",
+          "number_candidates": [
+            4278,
+            647
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ーー スト ラリ ア 産",
+              "category_hint": null,
+              "distance_px": 66.0,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "件 内",
+              "category_hint": null,
+              "distance_px": 100.0,
+              "review_score": 54
+            },
+            {
+              "text_unverified": "ックス",
+              "category_hint": null,
+              "distance_px": 122.0,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(7 種 15 品 )",
+          "number_candidates": [
+            7,
+            15
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "お で",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "中 国産",
+              "category_hint": null,
+              "distance_px": 163.3,
+              "review_score": 45
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        }
+      ]
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759029_1157452_0.jpg",
+      "source_status": "ocr_generated_unverified",
+      "candidate_count": 117,
+      "with_name_count": 116,
+      "candidates": [
+        {
+          "raw_text": "ーー アワ 7 -",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "1 回 の 現金 チャ ー シ >",
+              "category_hint": null,
+              "distance_px": 114.0,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "600",
+          "number_candidates": [
+            600
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ヤー ジ 人 金額 の 一 例",
+              "category_hint": null,
+              "distance_px": 59.0,
+              "review_score": 62
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1 回 の 現金 チャ ー シ >",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ーー アワ 7 -",
+              "category_hint": null,
+              "distance_px": 114.0,
+              "review_score": 51
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "16",
+          "number_candidates": [
+            16
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "450:2.",
+          "number_candidates": [
+            450,
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "旦 !『",
+              "category_hint": null,
+              "distance_px": 104.0,
+              "review_score": 52
+            },
+            {
+              "text_unverified": "詳し く は 、 サ ービス カウ ンタ ー ま で お 問い 合わ せく だ さい 。",
+              "category_hint": null,
+              "distance_px": 167.4,
+              "review_score": 47
+            },
+            {
+              "text_unverified": "場合 が こざ い",
+              "category_hint": null,
+              "distance_px": 220.0,
+              "review_score": 37
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "300",
+          "number_candidates": [
+            300
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "旦 !『",
+              "category_hint": null,
+              "distance_px": 37.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "詳し く は 、 サ ービス カウ ンタ ー ま で お 問い 合わ せく だ さい 。",
+              "category_hint": null,
+              "distance_px": 81.2,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "場合 が こざ い",
+              "category_hint": null,
+              "distance_px": 87.0,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "内 9 ペ て イッ ニン で す",
+              "category_hint": null,
+              "distance_px": 175.0,
+              "review_score": 41
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "内 9 ペ て イッ ニン で す",
+          "number_candidates": [
+            9
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "早生 ゅ じ り ん ご",
+              "category_hint": null,
+              "distance_px": 13.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "aaa 17 1 所 )",
+              "category_hint": null,
+              "distance_px": 206.3,
+              "review_score": 34
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "場合 が こざ い",
+              "category_hint": null,
+              "distance_px": 93.0,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "ware ミ",
+              "category_hint": null,
+              "distance_px": 128.0,
+              "review_score": 48
+            },
+            {
+              "text_unverified": "ノノ",
+              "category_hint": null,
+              "distance_px": 112.4,
+              "review_score": 47
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "aaa 17 1 所 )",
+          "number_candidates": [
+            17,
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ご 家族 様 3 点 ま",
+              "category_hint": null,
+              "distance_px": 40.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "ロー",
+              "category_hint": null,
+              "distance_px": 63.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "岡山 産 他",
+              "category_hint": null,
+              "distance_px": 63.0,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "/ 1008)",
+          "number_candidates": [
+            1008
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "当たり",
+              "category_hint": null,
+              "distance_px": 4.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "3kg ま で",
+              "category_hint": null,
+              "distance_px": 6.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance_px": 55.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "17)",
+          "number_candidates": [
+            17
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "3kg ま で )",
+              "category_hint": null,
+              "distance_px": 26.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "イス",
+              "category_hint": null,
+              "distance_px": 49.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance_px": 55.5,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "Oy 7OR AA",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "イス",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "3kg ま で )",
+              "category_hint": null,
+              "distance_px": 20.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance_px": 27.0,
+              "review_score": 70
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "2 ウス Bal",
+          "number_candidates": [
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ware ミ",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance_px": 11.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance_px": 31.0,
+              "review_score": 66
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance_px": 41.1,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "イス",
+              "category_hint": null,
+              "distance_px": 68.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "3kg ま で )",
+              "category_hint": null,
+              "distance_px": 93.7,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "11",
+          "number_candidates": [
+            11
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance_px": 14.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "ware ミ",
+              "category_hint": null,
+              "distance_px": 17.0,
+              "review_score": 66
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "#8]",
+          "number_candidates": [
+            8
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ご 家族 様 5 点 ま で",
+              "category_hint": null,
+              "distance_px": 85.0,
+              "review_score": 60
+            },
+            {
+              "text_unverified": "静岡 : 福 岡 産 他",
+              "category_hint": null,
+              "distance_px": 86.1,
+              "review_score": 60
+            },
+            {
+              "text_unverified": "シゲ",
+              "category_hint": null,
+              "distance_px": 81.2,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "49n",
+          "number_candidates": [
+            49
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "2 ウス Bal",
+              "category_hint": null,
+              "distance_px": 38.0,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance_px": 71.1,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "ware ミ",
+              "category_hint": null,
+              "distance_px": 71.0,
+              "review_score": 57
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "| | (8) 1) (BA17 1 円)",
+          "number_candidates": [
+            8,
+            1,
+            17,
+            1
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance_px": 5.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "の っ",
+              "category_hint": null,
+              "distance_px": 47.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance_px": 51.0,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "204m",
+          "number_candidates": [
+            204
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "| | (8) 1) (BA17 1 円)",
+              "category_hint": null,
+              "distance_px": 12.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance_px": 17.5,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "2 ウス Bal",
+              "category_hint": null,
+              "distance_px": 50.0,
+              "review_score": 57
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(B04;",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance_px": 111.0,
+              "review_score": 56
+            },
+            {
+              "text_unverified": "イス",
+              "category_hint": null,
+              "distance_px": 153.2,
+              "review_score": 49
+            },
+            {
+              "text_unverified": "国内 産 若 鶏",
+              "category_hint": null,
+              "distance_px": 136.9,
+              "review_score": 48
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "了 1 円 )",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "> 請",
+              "category_hint": null,
+              "distance_px": 7.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ご 家族 様 5 点 ま で",
+              "category_hint": null,
+              "distance_px": 76.2,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "道産 他",
+              "category_hint": null,
+              "distance_px": 85.7,
+              "review_score": 58
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "059A",
+          "number_candidates": [
+            59
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "アン",
+              "category_hint": null,
+              "distance_px": 92.7,
+              "review_score": 55
+            },
+            {
+              "text_unverified": "岡山 産 他",
+              "category_hint": null,
+              "distance_px": 145.0,
+              "review_score": 50
+            },
+            {
+              "text_unverified": "長野 産",
+              "category_hint": null,
+              "distance_px": 135.1,
+              "review_score": 49
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(税込 1",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "アン",
+              "category_hint": null,
+              "distance_px": 50.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "長野 産",
+              "category_hint": null,
+              "distance_px": 82.9,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "岡山 産 他",
+              "category_hint": null,
+              "distance_px": 150.0,
+              "review_score": 49
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "2 を 4115)",
+          "number_candidates": [
+            2,
+            4115
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 109.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance_px": 65.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "ルル ウェー",
+              "category_hint": null,
+              "distance_px": 59.0,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "Gs) (127)",
+          "number_candidates": [
+            127
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "えて か れい",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "ひと 辛子 明 太子 | たり",
+              "category_hint": null,
+              "distance_px": 74.0,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 184.6,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 46.0,
+              "review_score": 82
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance_px": 2.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "ルル ウェー",
+              "category_hint": null,
+              "distance_px": 46.0,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "DONE Sy. 107m) (wa378n)",
+          "number_candidates": [
+            107,
+            378
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance_px": 14.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "@ 小 問 切",
+              "category_hint": null,
+              "distance_px": 28.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "長野 産",
+              "category_hint": null,
+              "distance_px": 26.0,
+              "review_score": 67
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1008",
+          "number_candidates": [
+            1008
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ひと 辛子 明 太子 | たり",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "えて か れい",
+              "category_hint": null,
+              "distance_px": 84.0,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "アイ リス",
+              "category_hint": null,
+              "distance_px": 120.0,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "f#/1008)",
+          "number_candidates": [
+            1008
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 小 問 切",
+              "category_hint": null,
+              "distance_px": 6.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "シー",
+              "category_hint": null,
+              "distance_px": 72.4,
+              "review_score": 57
+            },
+            {
+              "text_unverified": "こつ",
+              "category_hint": null,
+              "distance_px": 83.0,
+              "review_score": 53
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "塩 さば [8",
+          "number_candidates": [
+            8
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance_px": 16.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "#1 5X15 本 入 |",
+              "category_hint": null,
+              "distance_px": 50.0,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "ルル ウェー",
+              "category_hint": null,
+              "distance_px": 51.9,
+              "review_score": 60
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3004)",
+          "number_candidates": [
+            3004
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 54.0,
+              "review_score": 80
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance_px": 43.4,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "ルル ウェー",
+              "category_hint": null,
+              "distance_px": 25.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "Tan 39)",
+          "number_candidates": [
+            39
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance_px": 68.7,
+              "review_score": 60
+            },
+            {
+              "text_unverified": "ど ま と",
+              "category_hint": null,
+              "distance_px": 94.0,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "ハウ ス",
+              "category_hint": null,
+              "distance_px": 118.6,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "gp, EES 1008 }",
+          "number_candidates": [
+            1008
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ハウ ス",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "こく まろ カレ ー ド |",
+              "category_hint": null,
+              "distance_px": 11.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance_px": 111.0,
+              "review_score": 53
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ハウ ス",
+              "category_hint": null,
+              "distance_px": 8.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "こく まろ カレ ー ド |",
+              "category_hint": null,
+              "distance_px": 11.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance_px": 123.0,
+              "review_score": 51
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "#1 5X15 本 入 |",
+          "number_candidates": [
+            1,
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 50.0,
+              "review_score": 81
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance_px": 94.0,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "ルル ウェー",
+              "category_hint": null,
+              "distance_px": 106.6,
+              "review_score": 51
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "20a",
+          "number_candidates": [
+            20
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 106.5,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "日 の 出",
+              "category_hint": null,
+              "distance_px": 34.8,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "#1 5X15 本 入 |",
+              "category_hint": null,
+              "distance_px": 59.4,
+              "review_score": 60
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "a9 ABR",
+          "number_candidates": [
+            9
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "日 の 出",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 149.6,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "#1 5X15 本 入 |",
+              "category_hint": null,
+              "distance_px": 81.6,
+              "review_score": 56
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ee a} A5e) p",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "こく まろ カレ ー ド |",
+              "category_hint": null,
+              "distance_px": 10.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "ハウ ス",
+              "category_hint": null,
+              "distance_px": 41.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "マル ちゃ ん",
+              "category_hint": null,
+              "distance_px": 123.7,
+              "review_score": 53
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "Fa 7",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "日 の 出",
+              "category_hint": null,
+              "distance_px": 33.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "ax を 171P",
+              "category_hint": null,
+              "distance_px": 78.0,
+              "review_score": 56
+            },
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance_px": 203.0,
+              "review_score": 56
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "8 bere",
+          "number_candidates": [
+            8
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ax を 171P",
+              "category_hint": null,
+              "distance_px": 51.6,
+              "review_score": 60
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance_px": 135.9,
+              "review_score": 50
+            },
+            {
+              "text_unverified": "リー バ ]",
+              "category_hint": null,
+              "distance_px": 154.0,
+              "review_score": 48
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4,1 50F)",
+          "number_candidates": [
+            50
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ る コー ン",
+              "category_hint": null,
+              "distance_px": 53.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "マル ちゃ ん",
+              "category_hint": null,
+              "distance_px": 76.7,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "つ 盛 り",
+              "category_hint": null,
+              "distance_px": 79.1,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "入 各 1 1",
+              "category_hint": null,
+              "distance_px": 7.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "デリ カコ ー ナ ー",
+              "category_hint": null,
+              "distance_px": 40.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "( 税",
+              "category_hint": null,
+              "distance_px": 80.0,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "2=/0>) 各",
+          "number_candidates": [
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "つ 盛 り",
+              "category_hint": null,
+              "distance_px": 25.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "@ る コー ン",
+              "category_hint": null,
+              "distance_px": 42.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ラー",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ax を 171P",
+          "number_candidates": [
+            171
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "(人 3 の 一 多 で す",
+              "category_hint": null,
+              "distance_px": 64.0,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "リー バ ]",
+              "category_hint": null,
+              "distance_px": 106.1,
+              "review_score": 56
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance_px": 155.9,
+              "review_score": 47
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "gene 74",
+          "number_candidates": [
+            74
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "テク フト",
+              "category_hint": null,
+              "distance_px": 51.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance_px": 86.2,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "@ レ モン",
+              "category_hint": null,
+              "distance_px": 134.0,
+              "review_score": 52
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "入 各 1 1",
+          "number_candidates": [
+            1,
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "( 税",
+              "category_hint": null,
+              "distance_px": 1.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "デリ カコ ー ナ ー",
+              "category_hint": null,
+              "distance_px": 57.2,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "2=/0>) 各",
+              "category_hint": null,
+              "distance_px": 85.0,
+              "review_score": 53
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(人 3 の 一 多 で す",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "デリ カコ ー ナ ー",
+              "category_hint": null,
+              "distance_px": 47.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ax を 171P",
+              "category_hint": null,
+              "distance_px": 64.0,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "ぐい まさ",
+              "category_hint": null,
+              "distance_px": 73.0,
+              "review_score": 56
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4 コ 和 )",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "生計 uc",
+              "category_hint": null,
+              "distance_px": 5.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "ーー",
+              "category_hint": null,
+              "distance_px": 43.0,
+              "review_score": 60
+            },
+            {
+              "text_unverified": "ぬき そば うき",
+              "category_hint": "米・パン・麺",
+              "distance_px": 213.2,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "5 ey",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ぬき そば うき",
+              "category_hint": "米・パン・麺",
+              "distance_px": 56.6,
+              "review_score": 80
+            },
+            {
+              "text_unverified": "る ラー メン",
+              "category_hint": null,
+              "distance_px": 49.8,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "生計 uc",
+              "category_hint": null,
+              "distance_px": 68.7,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(1308)",
+          "number_candidates": [
+            1308
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "リー バ ]",
+              "category_hint": null,
+              "distance_px": 32.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "シリ",
+              "category_hint": null,
+              "distance_px": 46.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance_px": 67.2,
+              "review_score": 62
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ELA 8 (te)",
+          "number_candidates": [
+            8
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ぐい まさ",
+              "category_hint": null,
+              "distance_px": 39.0,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "WEOIF102) (0646322F)| | guava} 提 王",
+              "category_hint": null,
+              "distance_px": 32.0,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "ーー —",
+              "category_hint": null,
+              "distance_px": 90.0,
+              "review_score": 56
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "oaeetitest (1808) (#681077)",
+          "number_candidates": [
+            1808
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "コジ ママ や",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "ーー",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "ぬき そば うき",
+              "category_hint": "米・パン・麺",
+              "distance_px": 136.0,
+              "review_score": 67
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(WIAs592 由",
+          "number_candidates": [
+            592
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "病 ケア (95g)",
+              "category_hint": null,
+              "distance_px": 36.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "バン",
+              "category_hint": null,
+              "distance_px": 37.1,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "テク フト",
+              "category_hint": null,
+              "distance_px": 109.1,
+              "review_score": 55
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(A273)",
+          "number_candidates": [
+            273
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "WEOIF102) (0646322F)| | guava} 提 王",
+              "category_hint": null,
+              "distance_px": 28.0,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "シリ",
+              "category_hint": null,
+              "distance_px": 56.6,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "ーー —",
+              "category_hint": null,
+              "distance_px": 61.2,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(3 コ 入 )",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "お か ら ド ー ナ ツウ",
+              "category_hint": null,
+              "distance_px": 5.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "新鮮 卵 の",
+              "category_hint": "乳製品・卵",
+              "distance_px": 113.8,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "リウ ジ バ ン",
+              "category_hint": null,
+              "distance_px": 31.0,
+              "review_score": 68
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "WEOIF102) (0646322F)| | guava} 提 王",
+          "number_candidates": [
+            102
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "* 肉 厚 し いた |",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "ーー —",
+              "category_hint": null,
+              "distance_px": 37.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance_px": 76.0,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(1408)",
+          "number_candidates": [
+            1408
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "新鮮 卵 の",
+              "category_hint": "乳製品・卵",
+              "distance_px": 27.0,
+              "review_score": 86
+            },
+            {
+              "text_unverified": "焼 プリ ン",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "ぬき そば うき",
+              "category_hint": "米・パン・麺",
+              "distance_px": 113.0,
+              "review_score": 70
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(834 160F))",
+          "number_candidates": [
+            834,
+            160
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "お か ら ド ー ナ ツウ",
+              "category_hint": null,
+              "distance_px": 13.9,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "* 肉 厚 し いた |",
+              "category_hint": null,
+              "distance_px": 16.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "(3 コ 入 )",
+              "category_hint": null,
+              "distance_px": 51.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "60",
+          "number_candidates": [
+            60
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "コジ ママ や",
+              "category_hint": null,
+              "distance_px": 84.0,
+              "review_score": 57
+            },
+            {
+              "text_unverified": "ーー",
+              "category_hint": null,
+              "distance_px": 86.4,
+              "review_score": 52
+            },
+            {
+              "text_unverified": "4 コ 和 )",
+              "category_hint": null,
+              "distance_px": 158.4,
+              "review_score": 45
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "5 ス",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "カロ ニ",
+              "category_hint": null,
+              "distance_px": 3.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance_px": 19.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance_px": 28.0,
+              "review_score": 69
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7/",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance_px": 46.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "人 ツー ス",
+              "category_hint": null,
+              "distance_px": 37.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance_px": 64.0,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "pH (908x252)",
+          "number_candidates": [
+            908,
+            252
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ン 8/",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "ナー",
+              "category_hint": null,
+              "distance_px": 12.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance_px": 37.0,
+              "review_score": 68
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "』 テ チョ コレ ー",
+              "category_hint": null,
+              "distance_px": 48.2,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "ピー",
+              "category_hint": null,
+              "distance_px": 68.7,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "1 る",
+              "category_hint": null,
+              "distance_px": 75.7,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7/",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "リャン",
+              "category_hint": null,
+              "distance_px": 93.6,
+              "review_score": 51
+            },
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance_px": 135.0,
+              "review_score": 51
+            },
+            {
+              "text_unverified": "人 ツー ス",
+              "category_hint": null,
+              "distance_px": 126.0,
+              "review_score": 49
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ン 8/",
+          "number_candidates": [
+            8
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ナー",
+              "category_hint": null,
+              "distance_px": 31.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance_px": 56.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "NL__ ーー",
+              "category_hint": null,
+              "distance_px": 56.0,
+              "review_score": 58
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(08x28) |",
+          "number_candidates": [
+            8,
+            28
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ン 8/",
+              "category_hint": null,
+              "distance_px": 3.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "ナー",
+              "category_hint": null,
+              "distance_px": 43.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "NL__ ーー",
+              "category_hint": null,
+              "distance_px": 21.9,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "54)",
+          "number_candidates": [
+            54
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance_px": 30.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "人 ツー ス",
+              "category_hint": null,
+              "distance_px": 40.5,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance_px": 66.6,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "= 139)",
+          "number_candidates": [
+            139
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "クス ナ",
+              "category_hint": null,
+              "distance_px": 42.2,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "NL__ ーー",
+              "category_hint": null,
+              "distance_px": 50.0,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance_px": 121.3,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "68",
+          "number_candidates": [
+            68
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "人 ツー ス",
+              "category_hint": null,
+              "distance_px": 27.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance_px": 46.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance_px": 70.0,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ound 2",
+          "number_candidates": [
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ビニ ナッ ブロック «",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "』 テ チョ コレ ー",
+              "category_hint": null,
+              "distance_px": 1.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance_px": 16.0,
+              "review_score": 72
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1 る",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ルミ",
+              "category_hint": null,
+              "distance_px": 1.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "タ め",
+              "category_hint": null,
+              "distance_px": 12.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "』 テ チョ コレ ー",
+              "category_hint": null,
+              "distance_px": 50.2,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "クス ナ",
+              "category_hint": null,
+              "distance_px": 76.0,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance_px": 77.1,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "NL__ ーー",
+              "category_hint": null,
+              "distance_px": 59.0,
+              "review_score": 58
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "E7EQ ©",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "(ほうじ茶)",
+              "category_hint": null,
+              "distance_px": 42.8,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "力 コー ラ",
+              "category_hint": null,
+              "distance_px": 94.9,
+              "review_score": 55
+            },
+            {
+              "text_unverified": "ayes ュー",
+              "category_hint": null,
+              "distance_px": 103.6,
+              "review_score": 50
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(708)",
+          "number_candidates": [
+            708
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "リャン",
+              "category_hint": null,
+              "distance_px": 12.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "人 ツー ス",
+              "category_hint": null,
+              "distance_px": 74.3,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance_px": 95.3,
+              "review_score": 57
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(@3322m) (1808)",
+          "number_candidates": [
+            3322,
+            1808
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance_px": 3.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "ーーーー",
+              "category_hint": null,
+              "distance_px": 14.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "ビニ ナッ ブロック «",
+              "category_hint": null,
+              "distance_px": 14.6,
+              "review_score": 70
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(@a538m)",
+          "number_candidates": [
+            538
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ーーーー",
+              "category_hint": null,
+              "distance_px": 24.4,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance_px": 44.4,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "めちゃ う",
+              "category_hint": null,
+              "distance_px": 37.0,
+              "review_score": 66
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ons 35>",
+          "number_candidates": [
+            35
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ayes ュー",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "ei ん",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 34.9,
+              "review_score": 60
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "88.",
+          "number_candidates": [
+            88
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "当たり |",
+              "category_hint": null,
+              "distance_px": 28.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ゆま ゆ",
+              "category_hint": null,
+              "distance_px": 58.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "ブル コギ",
+              "category_hint": null,
+              "distance_px": 76.0,
+              "review_score": 62
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "2",
+          "number_candidates": [
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ん で WWD/",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "イン マス カ 2",
+              "category_hint": null,
+              "distance_px": 7.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "‘y 層",
+              "category_hint": null,
+              "distance_px": 8.1,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "く 5 し 良 婦 ( 味 の",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "オリ ー ブ ォ イル)",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "バー ジン",
+              "category_hint": null,
+              "distance_px": 26.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "| くら し",
+              "category_hint": null,
+              "distance_px": 32.6,
+              "review_score": 68
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "128.",
+          "number_candidates": [
+            128
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "イン マス カ 2",
+              "category_hint": null,
+              "distance_px": 19.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "ん で WWD/",
+              "category_hint": null,
+              "distance_px": 18.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "と っ |",
+              "category_hint": null,
+              "distance_px": 33.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "イン マス カ 2",
+          "number_candidates": [
+            2
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ん で WWD/",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 24.0,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "‘y 層",
+              "category_hint": null,
+              "distance_px": 23.0,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "103A)",
+          "number_candidates": [
+            103
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "イン マス カ 2",
+              "category_hint": null,
+              "distance_px": 5.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "ん で WWD/",
+              "category_hint": null,
+              "distance_px": 17.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 10.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(139A)",
+          "number_candidates": [
+            139
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "III くら し 良好",
+              "category_hint": null,
+              "distance_px": 39.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "RMAMSEN | ポー ル タ イ プ ,",
+              "category_hint": null,
+              "distance_px": 52.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "チョ コレ ー ト",
+              "category_hint": null,
+              "distance_px": 89.8,
+              "review_score": 58
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "くら し 良好",
+              "category_hint": null,
+              "distance_px": 36.8,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "GO コ A)",
+              "category_hint": null,
+              "distance_px": 27.0,
+              "review_score": 65
+            },
+            {
+              "text_unverified": "ツウ トド バウム",
+              "category_hint": null,
+              "distance_px": 42.0,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "BLAS (S08)",
+          "number_candidates": [
+            8
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "ei ん",
+              "category_hint": null,
+              "distance_px": 48.0,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "HRW (2508)",
+          "number_candidates": [
+            2508
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "SO は に",
+              "category_hint": null,
+              "distance_px": 43.5,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "コー と = フィ ルター",
+              "category_hint": null,
+              "distance_px": 86.8,
+              "review_score": 59
+            },
+            {
+              "text_unverified": "ggtaon! に 5 人",
+              "category_hint": null,
+              "distance_px": 67.0,
+              "review_score": 58
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(86430 1)",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance_px": 123.9,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance_px": 137.5,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "GO コ A)",
+              "category_hint": null,
+              "distance_px": 25.0,
+              "review_score": 66
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(税込 754 円 )",
+          "number_candidates": [
+            754
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "SO は に",
+              "category_hint": null,
+              "distance_px": 15.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "クッ キン グ シ ー|",
+              "category_hint": null,
+              "distance_px": 36.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "バー ジン",
+              "category_hint": null,
+              "distance_px": 45.4,
+              "review_score": 67
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "198.",
+          "number_candidates": [
+            198
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ラス",
+              "category_hint": null,
+              "distance_px": 40.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 47.4,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "イン マス カ 2",
+              "category_hint": null,
+              "distance_px": 105.8,
+              "review_score": 53
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "5008",
+          "number_candidates": [
+            5008
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance_px": 22.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "に 1",
+              "category_hint": null,
+              "distance_px": 42.5,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "クッ キン グ シ ー|",
+              "category_hint": null,
+              "distance_px": 106.1,
+              "review_score": 56
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "7)",
+          "number_candidates": [
+            7
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ラス",
+              "category_hint": null,
+              "distance_px": 81.4,
+              "review_score": 61
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 53.0,
+              "review_score": 57
+            },
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance_px": 97.8,
+              "review_score": 55
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "者 /(70gx3 コ 入 )",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance_px": 2.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "ドトール",
+              "category_hint": null,
+              "distance_px": 3.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "@ 生 泊 仕 立て @ い ちご",
+              "category_hint": null,
+              "distance_px": 6.0,
+              "review_score": 70
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(WsA を 107 由 )",
+          "number_candidates": [
+            107
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance_px": 48.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 74.0,
+              "review_score": 54
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance_px": 116.3,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "<3u",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "クッ キン グ シ ー|",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance_px": 17.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "ggtaon! に 5 人",
+              "category_hint": null,
+              "distance_px": 38.6,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(siAs128BPy",
+          "number_candidates": [
+            128
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ドトール",
+              "category_hint": null,
+              "distance_px": 11.0,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "@ 生 泊 仕 立て @ い ちご",
+              "category_hint": null,
+              "distance_px": 16.6,
+              "review_score": 68
+            },
+            {
+              "text_unverified": "者 /(70gx3 コ 入 )",
+              "category_hint": null,
+              "distance_px": 21.0,
+              "review_score": 68
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "に 1",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance_px": 41.0,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "当店 で は 、「 税 抜 ] 価 格 で レジ 精算",
+              "category_hint": null,
+              "distance_px": 148.0,
+              "review_score": 49
+            },
+            {
+              "text_unverified": "円 | アル ミホ イル",
+              "category_hint": null,
+              "distance_px": 166.0,
+              "review_score": 47
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "x4",
+          "number_candidates": [
+            4
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance_px": 3.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "に 1",
+              "category_hint": null,
+              "distance_px": 14.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "円 | アル ミホ イル",
+              "category_hint": null,
+              "distance_px": 131.5,
+              "review_score": 52
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "3",
+          "number_candidates": [
+            3
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ラス",
+              "category_hint": null,
+              "distance_px": 27.3,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "SULUBLE 信吉 食品)",
+              "category_hint": null,
+              "distance_px": 99.0,
+              "review_score": 50
+            },
+            {
+              "text_unverified": "(WsA を 107 由 )",
+              "category_hint": null,
+              "distance_px": 127.0,
+              "review_score": 48
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "<5CRg",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ハブ プラ シ",
+              "category_hint": null,
+              "distance_px": 9.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "トイ レク リー ナー",
+              "category_hint": null,
+              "distance_px": 43.3,
+              "review_score": 67
+            },
+            {
+              "text_unverified": "くら し 豆 好",
+              "category_hint": null,
+              "distance_px": 28.8,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "gS BS e120)",
+          "number_candidates": [
+            120
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance_px": 6.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance_px": 27.0,
+              "review_score": 69
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "258.",
+          "number_candidates": [
+            258
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "ラス",
+              "category_hint": null,
+              "distance_px": 50.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "(WsA を 107 由 )",
+              "category_hint": null,
+              "distance_px": 155.2,
+              "review_score": 44
+            },
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance_px": 203.0,
+              "review_score": 38
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "ne 5",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance_px": 13.0,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance_px": 25.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance_px": 46.0,
+              "review_score": 65
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(税込 171 円 )",
+          "number_candidates": [
+            171
+          ],
+          "currency_cue": true,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "円 | アル ミホ イル",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "フラ イ バ ン で 使え る",
+              "category_hint": null,
+              "distance_px": 19.3,
+              "review_score": 71
+            },
+            {
+              "text_unverified": "当店 で は 、「 税 抜 ] 価 格 で レジ 精算",
+              "category_hint": null,
+              "distance_px": 39.0,
+              "review_score": 67
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(25cmxom)",
+          "number_candidates": [
+            25
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "円 | アル ミホ イル",
+              "category_hint": null,
+              "distance_px": 0.0,
+              "review_score": 74
+            },
+            {
+              "text_unverified": "フラ イ バ ン で 使え る",
+              "category_hint": null,
+              "distance_px": 7.0,
+              "review_score": 73
+            },
+            {
+              "text_unverified": "デー",
+              "category_hint": null,
+              "distance_px": 54.6,
+              "review_score": 64
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(6 46R)",
+          "number_candidates": [
+            6,
+            46
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance_px": 30.0,
+              "review_score": 86
+            },
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance_px": 70.2,
+              "review_score": 79
+            },
+            {
+              "text_unverified": "者 /(70gx3 コ 入 )",
+              "category_hint": null,
+              "distance_px": 109.9,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(was12BP",
+          "number_candidates": [
+            12
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance_px": 43.0,
+              "review_score": 66
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance_px": 56.0,
+              "review_score": 64
+            },
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance_px": 82.3,
+              "review_score": 59
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "#/(13) (81 28m)",
+          "number_candidates": [
+            13,
+            81,
+            28
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance_px": 101.8,
+              "review_score": 56
+            },
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance_px": 106.1,
+              "review_score": 55
+            },
+            {
+              "text_unverified": "(WsA を 107 由 )",
+              "category_hint": null,
+              "distance_px": 107.0,
+              "review_score": 52
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(RA174)",
+          "number_candidates": [
+            174
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance_px": 29.4,
+              "review_score": 86
+            },
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance_px": 43.2,
+              "review_score": 84
+            },
+            {
+              "text_unverified": "『 ク リナ 二",
+              "category_hint": null,
+              "distance_px": 45.0,
+              "review_score": 61
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(wae14in)",
+          "number_candidates": [
+            14
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "コー と = フィ ルター",
+              "category_hint": null,
+              "distance_px": 63.0,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "ハブ プラ シ",
+              "category_hint": null,
+              "distance_px": 101.8,
+              "review_score": 55
+            },
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance_px": 103.4,
+              "review_score": 54
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "| as86n)",
+          "number_candidates": [
+            86
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance_px": 14.0,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "トイ レク リー ナー",
+              "category_hint": null,
+              "distance_px": 31.4,
+              "review_score": 69
+            },
+            {
+              "text_unverified": "ハブ プラ シ",
+              "category_hint": null,
+              "distance_px": 56.0,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "(RA108 丁",
+          "number_candidates": [
+            108
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "トイ レク リー ナー",
+              "category_hint": null,
+              "distance_px": 28.0,
+              "review_score": 70
+            },
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance_px": 165.1,
+              "review_score": 63
+            },
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance_px": 168.5,
+              "review_score": 63
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "1",
+          "number_candidates": [
+            1
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "コー と = フィ ルター",
+              "category_hint": null,
+              "distance_px": 97.0,
+              "review_score": 57
+            },
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance_px": 101.0,
+              "review_score": 55
+            },
+            {
+              "text_unverified": "ハブ プラ シ",
+              "category_hint": null,
+              "distance_px": 123.1,
+              "review_score": 52
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "10",
+          "number_candidates": [
+            10
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance_px": 173.2,
+              "review_score": 62
+            },
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance_px": 91.1,
+              "review_score": 58
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance_px": 102.4,
+              "review_score": 56
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "5",
+          "number_candidates": [
+            5
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "コー と = フィ ルター",
+              "category_hint": null,
+              "distance_px": 101.0,
+              "review_score": 56
+            },
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance_px": 134.0,
+              "review_score": 49
+            },
+            {
+              "text_unverified": "くら し",
+              "category_hint": null,
+              "distance_px": 133.0,
+              "review_score": 47
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_text": "2026.10.15",
+          "number_candidates": [
+            2026,
+            10,
+            15
+          ],
+          "currency_cue": false,
+          "nearby_name_candidates": [
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance_px": 88.0,
+              "review_score": 76
+            },
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance_px": 115.0,
+              "review_score": 72
+            },
+            {
+              "text_unverified": "『 ク リナ 二",
+              "category_hint": null,
+              "distance_px": 134.7,
+              "review_score": 46
+            }
+          ],
+          "status": "unverified",
+          "publish_allowed": false
+        }
+      ]
+    }
+  ]
+}
