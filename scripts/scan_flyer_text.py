@@ -48,7 +48,7 @@ def fetch_image(url):
     # Respect publisher crawler policy; network errors do not imply permission.
     rp = urllib.robotparser.RobotFileParser()
     rp.set_url('https://' + ALLOWED_HOST + '/robots.txt')
-    rp.read()
+    rp.read(); print("OCR CHECK: robots.txt completed", flush=True) 
     if not rp.can_fetch(AGENT, url):
         raise PermissionError('Publisher robots policy disallows this image')
     req = urllib.request.Request(url, headers={'User-Agent': AGENT})
