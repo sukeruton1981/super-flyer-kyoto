@@ -20,6 +20,7 @@ jobs:
       - run: TZ=Asia/Tokyo python scripts/check_sources.py
       - run: TZ=Asia/Tokyo python scripts/discover_flyers.py
       - run: TZ=Asia/Tokyo python scripts/build_flyer_review.py
+      - run: TZ=Asia/Tokyo python scripts/scan_flyer_text.py --max-images 2
       - name: Commit updated files
         run: |
           git config user.name 'flyer-update-bot'
