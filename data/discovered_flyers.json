@@ -1,0 +1,14 @@
+{
+  "last_checked_at_jst": "2026-10-16T19:52:32+09:00",
+  "checks": [
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/京都府/京都市南区/197001/",
+      "status": "error",
+      "detail": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)"
+    }
+  ],
+  "flyers": [],
+  "price_extraction_enabled": false,
+  "note": "Image links are candidates, not verified current sales or prices."
+}
