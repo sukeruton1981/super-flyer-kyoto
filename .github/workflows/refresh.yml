@@ -21,6 +21,7 @@ jobs:
       - run: TZ=Asia/Tokyo python scripts/discover_flyers.py
       - run: TZ=Asia/Tokyo python scripts/build_flyer_review.py
       - run: TZ=Asia/Tokyo python scripts/scan_flyer_layout.py --max-images 2
+      - run: TZ=Asia/Tokyo python scripts/scan_flyer_layout_v2.py --max-images 2
       - run: TZ=Asia/Tokyo python scripts/build_product_candidates.py 
       - name: Commit updated files
         run: |
