@@ -23,4 +23,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Daily flyer verification"
             git push
-fi
+          fi
