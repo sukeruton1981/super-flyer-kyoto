@@ -1,0 +1,17 @@
+{
+  "checked_at_jst": "2026-10-16T18:58:30+09:00",
+  "purpose": "reference_page_reachability_only",
+  "price_acquisition_enabled": false,
+  "configured_csv_count": 0,
+  "checked_reference_count": 1,
+  "results": [
+    {
+      "shop": "スーパーマツモト",
+      "url": "https://www.super-matsumoto.co.jp/stores/",
+      "kind": "reference_only",
+      "price_imported": false,
+      "http_status": 200,
+      "status": "reachable"
+    }
+  ]
+}
