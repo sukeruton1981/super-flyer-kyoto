@@ -29,5 +29,6 @@ jobs:
                     if ! git diff --cached --quiet; then
             git commit -m "Daily flyer verification"
             git pull --rebase origin main
+            git pull --rebase origin mainｓ
             git push
           fi
