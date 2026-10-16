@@ -14,6 +14,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install 'beautifulsoup4>=4.12,<5'
+      - run: TZ=Asia/Tokyo python scripts/import_verified.py    
       - run: TZ=Asia/Tokyo python scripts/update.py
       - run: TZ=Asia/Tokyo python scripts/check_sources.py
       - name: Commit updated files
