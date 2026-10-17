@@ -1,22 +1,10 @@
 {
-  "generated_at_jst": "2026-10-16T23:23:52+09:00",
-  "image_links": 13,
+  "generated_at_jst": "2026-10-17T09:26:49+09:00",
+  "image_links": 15,
   "confirmed_flyer_dates": 2,
   "ready_for_automatic_product_price_import": 0,
   "note": "Flyer-level dates do not prove individual product validity; no OCR or prices imported.",
   "items": [
-    {
-      "shop": "スーパーマツモト 桂川店",
-      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
-      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
-      "flyer_date_status": "confirmed_flyer_level",
-      "offer_import_allowed": false,
-      "flyer_valid_from": "2026-10-15",
-      "flyer_valid_to": "2026-10-16",
-      "evidence": "ユーザー提供のチラシ画像。掲載期間10月15〜16日。一部商品は16日限定。",
-      "product_level_dates_confirmed": false,
-      "review_priority": "current_flyer"
-    },
     {
       "shop": "スーパーマツモト 桂川店",
       "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759029_1157452_0.jpg",
@@ -116,6 +104,34 @@
       "flyer_date_status": "unverified",
       "offer_import_allowed": false,
       "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9772365_1089299_0.jpg",
+      "first_seen_at_jst": "2026-10-17T09:26:47+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9772409_1170674_0.jpg",
+      "first_seen_at_jst": "2026-10-17T09:26:47+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
+      "first_seen_at_jst": "2026-10-16T20:00:53+09:00",
+      "flyer_date_status": "confirmed_flyer_level",
+      "offer_import_allowed": false,
+      "flyer_valid_from": "2026-10-15",
+      "flyer_valid_to": "2026-10-16",
+      "evidence": "ユーザー提供のチラシ画像。掲載期間10月15〜16日。一部商品は16日限定。",
+      "product_level_dates_confirmed": false,
+      "review_priority": "expired_flyer"
     }
   ]
 }
