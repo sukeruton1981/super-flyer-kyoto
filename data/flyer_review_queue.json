@@ -1,6 +1,6 @@
 {
-  "generated_at_jst": "2026-10-18T09:28:41+09:00",
-  "image_links": 15,
+  "generated_at_jst": "2026-10-19T09:26:51+09:00",
+  "image_links": 17,
   "confirmed_flyer_dates": 2,
   "ready_for_automatic_product_price_import": 0,
   "note": "Flyer-level dates do not prove individual product validity; no OCR or prices imported.",
@@ -117,6 +117,22 @@
       "shop": "スーパーマツモト 桂川店",
       "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9772409_1170674_0.jpg",
       "first_seen_at_jst": "2026-10-17T09:26:47+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9782847_981177_0.jpg",
+      "first_seen_at_jst": "2026-10-19T09:26:49+09:00",
+      "flyer_date_status": "unverified",
+      "offer_import_allowed": false,
+      "review_priority": "needs_date_review"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9782848_988112_0.jpg",
+      "first_seen_at_jst": "2026-10-19T09:26:49+09:00",
       "flyer_date_status": "unverified",
       "offer_import_allowed": false,
       "review_priority": "needs_date_review"

@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-10-18T09:37:42+09:00",
+  "generated_at_jst": "2026-10-19T09:27:28+09:00",
   "stage": "SPATIAL_CANDIDATES_UNVERIFIED",
   "verified_products": 0,
   "published_offers": 0,
@@ -8,14 +8,1574 @@
     {
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
-      "status": "error",
-      "groups": []
+      "status": "ocr_generated_unverified",
+      "groups": [
+        {
+          "box": {
+            "left": 1362,
+            "top": 27,
+            "width": 591,
+            "height": 147
+          },
+          "unverified_lines": [
+            {
+              "text": "mee | 16’ 31s |",
+              "numbers": [
+                "16",
+                "31"
+              ],
+              "confidence": 50.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 124,
+            "top": 620,
+            "width": 19,
+            "height": 8
+          },
+          "unverified_lines": [
+            {
+              "text": "42",
+              "numbers": [
+                "42"
+              ],
+              "confidence": 72.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1653,
+            "top": 923,
+            "width": 218,
+            "height": 478
+          },
+          "unverified_lines": [
+            {
+              "text": "99",
+              "numbers": [
+                "99"
+              ],
+              "confidence": 92.2
+            },
+            {
+              "text": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t138",
+              "numbers": [
+                "137",
+                "213",
+                "1380",
+                "56",
+                "47",
+                "137",
+                "213",
+                "1380"
+              ],
+              "confidence": 13.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 84,
+            "top": 1021,
+            "width": 147,
+            "height": 23
+          },
+          "unverified_lines": [
+            {
+              "text": "音 /(66Om2) =",
+              "numbers": [
+                "66"
+              ],
+              "confidence": 33.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1706,
+            "top": 1995,
+            "width": 197,
+            "height": 66
+          },
+          "unverified_lines": [
+            {
+              "text": "て 1 06.92%)",
+              "numbers": [
+                "92"
+              ],
+              "confidence": 47.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1344,
+            "top": 2001,
+            "width": 308,
+            "height": 60
+          },
+          "unverified_lines": [
+            {
+              "text": "#/(200me)",
+              "numbers": [
+                "200"
+              ],
+              "confidence": 72.9
+            },
+            {
+              "text": "(2 203.047)",
+              "numbers": [
+                "203"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 535,
+            "top": 2004,
+            "width": 69,
+            "height": 19
+          },
+          "unverified_lines": [
+            {
+              "text": "150gX",
+              "numbers": [
+                "150"
+              ],
+              "confidence": 88.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 648,
+            "top": 2013,
+            "width": 257,
+            "height": 49
+          },
+          "unverified_lines": [
+            {
+              "text": "(180g)",
+              "numbers": [
+                "180"
+              ],
+              "confidence": 91.0
+            },
+            {
+              "text": "税込 95.04 円 )",
+              "numbers": [
+                "95"
+              ],
+              "confidence": 91.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 995,
+            "top": 2016,
+            "width": 161,
+            "height": 35
+          },
+          "unverified_lines": [
+            {
+              "text": "(86 181.44F)",
+              "numbers": [
+                "86",
+                "181",
+                "44"
+              ],
+              "confidence": 33.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 247,
+            "top": 2027,
+            "width": 169,
+            "height": 35
+          },
+          "unverified_lines": [
+            {
+              "text": "(税込 32 1.84 円 )",
+              "numbers": [
+                "32",
+                "84"
+              ],
+              "confidence": 88.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1407,
+            "top": 2264,
+            "width": 117,
+            "height": 26
+          },
+          "unverified_lines": [
+            {
+              "text": "300 枚 ・150 組 )",
+              "numbers": [
+                "300",
+                "150"
+              ],
+              "confidence": 64.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 481,
+            "top": 2297,
+            "width": 414,
+            "height": 97
+          },
+          "unverified_lines": [
+            {
+              "text": "昔 /(14 投 入 )",
+              "numbers": [
+                "14"
+              ],
+              "confidence": 62.3
+            },
+            {
+              "text": "oS 6s) (#A%138.24F)",
+              "numbers": [
+                "138",
+                "24"
+              ],
+              "confidence": 7.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 978,
+            "top": 2352,
+            "width": 179,
+            "height": 42
+          },
+          "unverified_lines": [
+            {
+              "text": "(g2%170.647)",
+              "numbers": [
+                "170",
+                "647"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 127,
+            "top": 2355,
+            "width": 262,
+            "height": 48
+          },
+          "unverified_lines": [
+            {
+              "text": "ieee) (税込 名 105.84",
+              "numbers": [
+                "105",
+                "84"
+              ],
+              "confidence": 58.8
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 107,
+            "top": 2578,
+            "width": 428,
+            "height": 138
+          },
+          "unverified_lines": [
+            {
+              "text": "(300g)",
+              "numbers": [
+                "300"
+              ],
+              "confidence": 91.7
+            },
+            {
+              "text": "Sa 3537 24m)",
+              "numbers": [
+                "3537",
+                "24"
+              ],
+              "confidence": 16.1
+            },
+            {
+              "text": "(7 種 15 品 )",
+              "numbers": [
+                "15"
+              ],
+              "confidence": 91.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 989,
+            "top": 2654,
+            "width": 159,
+            "height": 62
+          },
+          "unverified_lines": [
+            {
+              "text": "(ea 753.846",
+              "numbers": [
+                "753",
+                "846"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1197,
+            "top": 2656,
+            "width": 325,
+            "height": 61
+          },
+          "unverified_lines": [
+            {
+              "text": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+              "numbers": [
+                "300",
+                "24"
+              ],
+              "confidence": 69.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1733,
+            "top": 2656,
+            "width": 169,
+            "height": 60
+          },
+          "unverified_lines": [
+            {
+              "text": "($4278.647)",
+              "numbers": [
+                "4278",
+                "647"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        }
+      ]
     },
     {
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759029_1157452_0.jpg",
-      "status": "error",
-      "groups": []
+      "status": "ocr_generated_unverified",
+      "groups": [
+        {
+          "box": {
+            "left": 1710,
+            "top": 177,
+            "width": 201,
+            "height": 383
+          },
+          "unverified_lines": [
+            {
+              "text": "600",
+              "numbers": [
+                "600"
+              ],
+              "confidence": 90.8
+            },
+            {
+              "text": "30,000RF+-Yz",
+              "numbers": [
+                "30,000"
+              ],
+              "confidence": 37.2
+            },
+            {
+              "text": "450:2.",
+              "numbers": [
+                "450"
+              ],
+              "confidence": 15.2
+            },
+            {
+              "text": "20,000RF+-Jz",
+              "numbers": [
+                "20,000"
+              ],
+              "confidence": 8.1
+            },
+            {
+              "text": "300",
+              "numbers": [
+                "300"
+              ],
+              "confidence": 89.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 99,
+            "top": 200,
+            "width": 118,
+            "height": 94
+          },
+          "unverified_lines": [
+            {
+              "text": "16",
+              "numbers": [
+                "16"
+              ],
+              "confidence": 97.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1103,
+            "top": 231,
+            "width": 156,
+            "height": 29
+          },
+          "unverified_lines": [
+            {
+              "text": "10,000",
+              "numbers": [
+                "10,000"
+              ],
+              "confidence": 26.7
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 687,
+            "top": 853,
+            "width": 140,
+            "height": 46
+          },
+          "unverified_lines": [
+            {
+              "text": "aaa 17 1 所 )",
+              "numbers": [
+                "17"
+              ],
+              "confidence": 38.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1155,
+            "top": 877,
+            "width": 67,
+            "height": 18
+          },
+          "unverified_lines": [
+            {
+              "text": "/ 1008)",
+              "numbers": [
+                "1008"
+              ],
+              "confidence": 16.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1352,
+            "top": 878,
+            "width": 66,
+            "height": 27
+          },
+          "unverified_lines": [
+            {
+              "text": "17)",
+              "numbers": [
+                "17"
+              ],
+              "confidence": 29.9
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1265,
+            "top": 1050,
+            "width": 659,
+            "height": 183
+          },
+          "unverified_lines": [
+            {
+              "text": "11",
+              "numbers": [
+                "11"
+              ],
+              "confidence": 61.9
+            },
+            {
+              "text": "49n",
+              "numbers": [
+                "49"
+              ],
+              "confidence": 22.9
+            },
+            {
+              "text": "204m",
+              "numbers": [
+                "204"
+              ],
+              "confidence": 44.3
+            },
+            {
+              "text": "| | (8) 1) (BA17 1 円)",
+              "numbers": [
+                "17"
+              ],
+              "confidence": 46.1
+            },
+            {
+              "text": "牛肉 60%: 豚 肉 40% 使 用",
+              "numbers": [
+                "60",
+                "40"
+              ],
+              "confidence": 63.5
+            },
+            {
+              "text": "2 を 4115)",
+              "numbers": [
+                "4115"
+              ],
+              "confidence": 7.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1829,
+            "top": 1236,
+            "width": 93,
+            "height": 34
+          },
+          "unverified_lines": [
+            {
+              "text": "Gs) (127)",
+              "numbers": [
+                "127"
+              ],
+              "confidence": 22.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 264,
+            "top": 1306,
+            "width": 590,
+            "height": 161
+          },
+          "unverified_lines": [
+            {
+              "text": "DONE Sy. 107m) (wa378n)",
+              "numbers": [
+                "107",
+                "378"
+              ],
+              "confidence": 36.5
+            },
+            {
+              "text": "Tan 39)",
+              "numbers": [
+                "39"
+              ],
+              "confidence": 32.5
+            },
+            {
+              "text": "gp, EES 1008 }",
+              "numbers": [
+                "1008"
+              ],
+              "confidence": 53.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1887,
+            "top": 1339,
+            "width": 26,
+            "height": 10
+          },
+          "unverified_lines": [
+            {
+              "text": "1008",
+              "numbers": [
+                "1008"
+              ],
+              "confidence": 88.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 950,
+            "top": 1341,
+            "width": 51,
+            "height": 11
+          },
+          "unverified_lines": [
+            {
+              "text": "f#/1008)",
+              "numbers": [
+                "1008"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1713,
+            "top": 1345,
+            "width": 26,
+            "height": 17
+          },
+          "unverified_lines": [
+            {
+              "text": "3004)",
+              "numbers": [
+                "3004"
+              ],
+              "confidence": 26.8
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1595,
+            "top": 1420,
+            "width": 74,
+            "height": 25
+          },
+          "unverified_lines": [
+            {
+              "text": "#1 5X15 本 入 |",
+              "numbers": [
+                "15"
+              ],
+              "confidence": 46.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1495,
+            "top": 1458,
+            "width": 42,
+            "height": 16
+          },
+          "unverified_lines": [
+            {
+              "text": "20a",
+              "numbers": [
+                "20"
+              ],
+              "confidence": 59.6
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 559,
+            "top": 1693,
+            "width": 114,
+            "height": 39
+          },
+          "unverified_lines": [
+            {
+              "text": "4,1 50F)",
+              "numbers": [
+                "50"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1427,
+            "top": 1697,
+            "width": 122,
+            "height": 49
+          },
+          "unverified_lines": [
+            {
+              "text": "ax を 171P",
+              "numbers": [
+                "171"
+              ],
+              "confidence": 39.7
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1804,
+            "top": 1698,
+            "width": 112,
+            "height": 47
+          },
+          "unverified_lines": [
+            {
+              "text": "gene 74",
+              "numbers": [
+                "74"
+              ],
+              "confidence": 43.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1048,
+            "top": 1879,
+            "width": 610,
+            "height": 101
+          },
+          "unverified_lines": [
+            {
+              "text": "(1308)",
+              "numbers": [
+                "1308"
+              ],
+              "confidence": 75.9
+            },
+            {
+              "text": "(834 160F))",
+              "numbers": [
+                "834",
+                "160"
+              ],
+              "confidence": 0.0
+            },
+            {
+              "text": "WEOIF102) (0646322F)| | guava} 提 王",
+              "numbers": [
+                "102"
+              ],
+              "confidence": 12.8
+            },
+            {
+              "text": "(A273)",
+              "numbers": [
+                "273"
+              ],
+              "confidence": 4.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1720,
+            "top": 1921,
+            "width": 208,
+            "height": 56
+          },
+          "unverified_lines": [
+            {
+              "text": "病 ケア (95g)",
+              "numbers": [
+                "95"
+              ],
+              "confidence": 54.7
+            },
+            {
+              "text": "(WIAs592 由",
+              "numbers": [
+                "592"
+              ],
+              "confidence": 8.9
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 78,
+            "top": 1936,
+            "width": 345,
+            "height": 175
+          },
+          "unverified_lines": [
+            {
+              "text": "oaeetitest (1808) (#681077)",
+              "numbers": [
+                "1808"
+              ],
+              "confidence": 12.8
+            },
+            {
+              "text": "60",
+              "numbers": [
+                "60"
+              ],
+              "confidence": 69.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 764,
+            "top": 1954,
+            "width": 49,
+            "height": 13
+          },
+          "unverified_lines": [
+            {
+              "text": "(1408)",
+              "numbers": [
+                "1408"
+              ],
+              "confidence": 79.6
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1203,
+            "top": 2105,
+            "width": 91,
+            "height": 54
+          },
+          "unverified_lines": [
+            {
+              "text": "pH (908x252)",
+              "numbers": [
+                "908",
+                "252"
+              ],
+              "confidence": 7.7
+            },
+            {
+              "text": "(08x28) |",
+              "numbers": [
+                "28"
+              ],
+              "confidence": 43.6
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1602,
+            "top": 2159,
+            "width": 10,
+            "height": 12
+          },
+          "unverified_lines": [
+            {
+              "text": "54)",
+              "numbers": [
+                "54"
+              ],
+              "confidence": 37.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1016,
+            "top": 2160,
+            "width": 39,
+            "height": 18
+          },
+          "unverified_lines": [
+            {
+              "text": "= 139)",
+              "numbers": [
+                "139"
+              ],
+              "confidence": 52.7
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1673,
+            "top": 2175,
+            "width": 48,
+            "height": 39
+          },
+          "unverified_lines": [
+            {
+              "text": "68",
+              "numbers": [
+                "68"
+              ],
+              "confidence": 85.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1765,
+            "top": 2216,
+            "width": 44,
+            "height": 12
+          },
+          "unverified_lines": [
+            {
+              "text": "(708)",
+              "numbers": [
+                "708"
+              ],
+              "confidence": 16.6
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 674,
+            "top": 2303,
+            "width": 54,
+            "height": 14
+          },
+          "unverified_lines": [
+            {
+              "text": "(166g)",
+              "numbers": [
+                "166"
+              ],
+              "confidence": 71.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 830,
+            "top": 2303,
+            "width": 241,
+            "height": 15
+          },
+          "unverified_lines": [
+            {
+              "text": "(@3322m) (1808)",
+              "numbers": [
+                "3322",
+                "1808"
+              ],
+              "confidence": 51.5
+            },
+            {
+              "text": "(@a538m)",
+              "numbers": [
+                "538"
+              ],
+              "confidence": 28.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1532,
+            "top": 2318,
+            "width": 92,
+            "height": 48
+          },
+          "unverified_lines": [
+            {
+              "text": "ons 35>",
+              "numbers": [
+                "35"
+              ],
+              "confidence": 19.9
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 441,
+            "top": 2327,
+            "width": 54,
+            "height": 14
+          },
+          "unverified_lines": [
+            {
+              "text": "(108g)",
+              "numbers": [
+                "108"
+              ],
+              "confidence": 86.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1242,
+            "top": 2327,
+            "width": 56,
+            "height": 45
+          },
+          "unverified_lines": [
+            {
+              "text": "88.",
+              "numbers": [
+                "88"
+              ],
+              "confidence": 93.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 554,
+            "top": 2328,
+            "width": 93,
+            "height": 68
+          },
+          "unverified_lines": [
+            {
+              "text": "(80g)",
+              "numbers": [
+                "80"
+              ],
+              "confidence": 89.8
+            },
+            {
+              "text": "(139A)",
+              "numbers": [
+                "139"
+              ],
+              "confidence": 18.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1864,
+            "top": 2339,
+            "width": 74,
+            "height": 39
+          },
+          "unverified_lines": [
+            {
+              "text": "128.",
+              "numbers": [
+                "128"
+              ],
+              "confidence": 90.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1767,
+            "top": 2381,
+            "width": 38,
+            "height": 9
+          },
+          "unverified_lines": [
+            {
+              "text": "103A)",
+              "numbers": [
+                "103"
+              ],
+              "confidence": 51.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 790,
+            "top": 2413,
+            "width": 49,
+            "height": 14
+          },
+          "unverified_lines": [
+            {
+              "text": "(213g)",
+              "numbers": [
+                "213"
+              ],
+              "confidence": 66.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 274,
+            "top": 2421,
+            "width": 287,
+            "height": 69
+          },
+          "unverified_lines": [
+            {
+              "text": "(400g)",
+              "numbers": [
+                "400"
+              ],
+              "confidence": 91.1
+            },
+            {
+              "text": "(税込 754 円 )",
+              "numbers": [
+                "754"
+              ],
+              "confidence": 88.2
+            },
+            {
+              "text": "HRW (2508)",
+              "numbers": [
+                "2508"
+              ],
+              "confidence": 38.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1869,
+            "top": 2479,
+            "width": 70,
+            "height": 36
+          },
+          "unverified_lines": [
+            {
+              "text": "198.",
+              "numbers": [
+                "198"
+              ],
+              "confidence": 87.8
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 82,
+            "top": 2487,
+            "width": 79,
+            "height": 93
+          },
+          "unverified_lines": [
+            {
+              "text": "5008",
+              "numbers": [
+                "5008"
+              ],
+              "confidence": 57.5
+            },
+            {
+              "text": "(500g)",
+              "numbers": [
+                "500"
+              ],
+              "confidence": 86.3
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1330,
+            "top": 2515,
+            "width": 193,
+            "height": 147
+          },
+          "unverified_lines": [
+            {
+              "text": "者 /(70gx3 コ 入 )",
+              "numbers": [
+                "70"
+              ],
+              "confidence": 69.3
+            },
+            {
+              "text": "(siAs128BPy",
+              "numbers": [
+                "128"
+              ],
+              "confidence": 17.9
+            },
+            {
+              "text": "gS BS e120)",
+              "numbers": [
+                "120"
+              ],
+              "confidence": 23.4
+            },
+            {
+              "text": "(was12BP",
+              "numbers": [
+                "12"
+              ],
+              "confidence": 24.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1635,
+            "top": 2519,
+            "width": 98,
+            "height": 24
+          },
+          "unverified_lines": [
+            {
+              "text": "(WsA を 107 由 )",
+              "numbers": [
+                "107"
+              ],
+              "confidence": 43.9
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1011,
+            "top": 2605,
+            "width": 64,
+            "height": 61
+          },
+          "unverified_lines": [
+            {
+              "text": "(800g)",
+              "numbers": [
+                "800"
+              ],
+              "confidence": 89.1
+            },
+            {
+              "text": "(RA174)",
+              "numbers": [
+                "174"
+              ],
+              "confidence": 25.9
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1870,
+            "top": 2616,
+            "width": 69,
+            "height": 36
+          },
+          "unverified_lines": [
+            {
+              "text": "258.",
+              "numbers": [
+                "258"
+              ],
+              "confidence": 82.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 156,
+            "top": 2642,
+            "width": 167,
+            "height": 27
+          },
+          "unverified_lines": [
+            {
+              "text": "(税込 171 円 )",
+              "numbers": [
+                "171"
+              ],
+              "confidence": 92.6
+            },
+            {
+              "text": "(25cmxom)",
+              "numbers": [
+                "25"
+              ],
+              "confidence": 39.2
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1164,
+            "top": 2645,
+            "width": 125,
+            "height": 28
+          },
+          "unverified_lines": [
+            {
+              "text": "90g",
+              "numbers": [
+                "90"
+              ],
+              "confidence": 88.2
+            },
+            {
+              "text": "(6 46R)",
+              "numbers": [
+                "46"
+              ],
+              "confidence": 29.1
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1606,
+            "top": 2650,
+            "width": 124,
+            "height": 12
+          },
+          "unverified_lines": [
+            {
+              "text": "#/(13) (81 28m)",
+              "numbers": [
+                "13",
+                "81",
+                "28"
+              ],
+              "confidence": 6.5
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 595,
+            "top": 2657,
+            "width": 69,
+            "height": 10
+          },
+          "unverified_lines": [
+            {
+              "text": "(wae14in)",
+              "numbers": [
+                "14"
+              ],
+              "confidence": 0.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 720,
+            "top": 2657,
+            "width": 81,
+            "height": 13
+          },
+          "unverified_lines": [
+            {
+              "text": "| as86n)",
+              "numbers": [
+                "86"
+              ],
+              "confidence": 31.9
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 876,
+            "top": 2658,
+            "width": 63,
+            "height": 10
+          },
+          "unverified_lines": [
+            {
+              "text": "(RA108 丁",
+              "numbers": [
+                "108"
+              ],
+              "confidence": 37.4
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1367,
+            "top": 2693,
+            "width": 29,
+            "height": 22
+          },
+          "unverified_lines": [
+            {
+              "text": "10",
+              "numbers": [
+                "10"
+              ],
+              "confidence": 97.0
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        },
+        {
+          "box": {
+            "left": 1117,
+            "top": 2739,
+            "width": 90,
+            "height": 11
+          },
+          "unverified_lines": [
+            {
+              "text": "2026.10.15",
+              "numbers": [
+                "2026",
+                "10",
+                "15"
+              ],
+              "confidence": 95.7
+            }
+          ],
+          "requires_human_review": true,
+          "is_verified_product": false
+        }
+      ]
     }
   ]
 }

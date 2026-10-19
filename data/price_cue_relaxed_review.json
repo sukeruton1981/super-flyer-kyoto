@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-10-18T09:37:41+09:00",
+  "generated_at_jst": "2026-10-19T09:27:27+09:00",
   "stage": "ONE_OFF_RELAXED_PRICE_CUES_REVIEW_ONLY",
   "verified_products": 0,
   "published_offers": 0,
@@ -8,20 +8,2904 @@
     {
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
-      "status": "error",
-      "candidate_count": 0,
-      "with_name_count": 0,
+      "status": "ocr_generated_unverified",
+      "candidate_count": 15,
+      "with_name_count": 13,
       "with_category_count": 0,
-      "suggestions": []
+      "suggestions": [
+        {
+          "number_line": "mee | 16’ 31s |",
+          "number_tokens": [
+            "16",
+            "31"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [],
+          "has_name_candidate": false,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "42",
+          "number_tokens": [
+            "42"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [],
+          "has_name_candidate": false,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "99",
+          "number_tokens": [
+            "99"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "(し ょ こら ・ ク ラウ ン メ ロン 〉",
+              "category_hint": null,
+              "distance": 296.6,
+              "package_text_risk_heuristic": 0,
+              "score": 31
+            },
+            {
+              "text_unverified": "くり ぃ お ば ぱ ば ん ほ い つぶ",
+              "category_hint": null,
+              "distance": 321.0,
+              "package_text_risk_heuristic": 0,
+              "score": 26
+            },
+            {
+              "text_unverified": "トー",
+              "category_hint": null,
+              "distance": 294.2,
+              "package_text_risk_heuristic": 12,
+              "score": 19
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "音 /(66Om2) =",
+          "number_tokens": [
+            "66",
+            "2"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ 十 六 散 麦 茶",
+              "category_hint": null,
+              "distance": 40.2,
+              "package_text_risk_heuristic": 12,
+              "score": 70
+            },
+            {
+              "text_unverified": "@ ぎ ぎゅ っ と 濃い 十 六花",
+              "category_hint": null,
+              "distance": 100.3,
+              "package_text_risk_heuristic": 0,
+              "score": 70
+            },
+            {
+              "text_unverified": "@ 十 六 茶",
+              "category_hint": null,
+              "distance": 116.7,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t14",
+          "number_tokens": [
+            "2",
+            "1",
+            "137",
+            "213",
+            "1380",
+            "56",
+            "47",
+            "1"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "トー",
+              "category_hint": null,
+              "distance": 259.4,
+              "package_text_risk_heuristic": 12,
+              "score": 26
+            },
+            {
+              "text_unverified": "AO つぶ",
+              "category_hint": null,
+              "distance": 273.4,
+              "package_text_risk_heuristic": 12,
+              "score": 23
+            },
+            {
+              "text_unverified": "ーー NN",
+              "category_hint": null,
+              "distance": 309.1,
+              "package_text_risk_heuristic": 12,
+              "score": 16
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "150gX",
+          "number_tokens": [
+            "150"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "京 小町 絹 3、",
+              "category_hint": null,
+              "distance": 58.1,
+              "package_text_risk_heuristic": 0,
+              "score": 78
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(180g)",
+          "number_tokens": [
+            "180"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "いち お し キム チュ",
+              "category_hint": null,
+              "distance": 68.4,
+              "package_text_risk_heuristic": 0,
+              "score": 76
+            },
+            {
+              "text_unverified": "ーー]",
+              "category_hint": null,
+              "distance": 188.0,
+              "package_text_risk_heuristic": 12,
+              "score": 40
+            },
+            {
+              "text_unverified": "京 小町 絹 3、",
+              "category_hint": null,
+              "distance": 281.7,
+              "package_text_risk_heuristic": 0,
+              "score": 34
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(86 181.44F)",
+          "number_tokens": [
+            "86"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "いち お し キム チュ",
+              "category_hint": null,
+              "distance": 169.6,
+              "package_text_risk_heuristic": 0,
+              "score": 56
+            },
+            {
+              "text_unverified": "ーー]",
+              "category_hint": null,
+              "distance": 122.6,
+              "package_text_risk_heuristic": 12,
+              "score": 53
+            },
+            {
+              "text_unverified": "ゃ キャ ベツ が",
+              "category_hint": null,
+              "distance": 184.1,
+              "package_text_risk_heuristic": 0,
+              "score": 53
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "#/(200me)",
+          "number_tokens": [
+            "200"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "3 種 の ナッ ツ",
+              "category_hint": null,
+              "distance": 44.9,
+              "package_text_risk_heuristic": 0,
+              "score": 81
+            },
+            {
+              "text_unverified": "⑯ オ リ ジ ナ ル 人 @ 砂 搬 不 使用",
+              "category_hint": null,
+              "distance": 75.1,
+              "package_text_risk_heuristic": 0,
+              "score": 75
+            },
+            {
+              "text_unverified": "アニ モン ド",
+              "category_hint": null,
+              "distance": 96.6,
+              "package_text_risk_heuristic": 0,
+              "score": 71
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(税込 32 1.84 円 )",
+          "number_tokens": [
+            "32"
+          ],
+          "has_currency_marker": true,
+          "name_candidates": [
+            {
+              "text_unverified": "京 小町 絹 3、",
+              "category_hint": null,
+              "distance": 274.8,
+              "package_text_risk_heuristic": 0,
+              "score": 35
+            },
+            {
+              "text_unverified": "マテ",
+              "category_hint": null,
+              "distance": 311.0,
+              "package_text_risk_heuristic": 0,
+              "score": 28
+            },
+            {
+              "text_unverified": "じゃ フ",
+              "category_hint": null,
+              "distance": 351.7,
+              "package_text_risk_heuristic": 0,
+              "score": 20
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "300 枚 ・150 組 )",
+          "number_tokens": [
+            "300",
+            "150"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "デイ |",
+              "category_hint": null,
+              "distance": 53.8,
+              "package_text_risk_heuristic": 0,
+              "score": 79
+            },
+            {
+              "text_unverified": "プラ だ バ BOX",
+              "category_hint": null,
+              "distance": 57.2,
+              "package_text_risk_heuristic": 0,
+              "score": 79
+            },
+            {
+              "text_unverified": "iy 写真 は イメ ー ジ で の",
+              "category_hint": null,
+              "distance": 235.2,
+              "package_text_risk_heuristic": 0,
+              "score": 43
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "昔 /(14 投 入 )",
+          "number_tokens": [
+            "14"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ゅ ホワ イト チョ",
+              "category_hint": null,
+              "distance": 38.9,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "ゅ チョ コチ ッ プ クッ キー",
+              "category_hint": null,
+              "distance": 44.6,
+              "package_text_risk_heuristic": 0,
+              "score": 81
+            },
+            {
+              "text_unverified": "ヨイ ス @ ム ー ン ライ ト .",
+              "category_hint": null,
+              "distance": 69.2,
+              "package_text_risk_heuristic": 0,
+              "score": 76
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(300g)",
+          "number_tokens": [
+            "300"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "中 国産",
+              "category_hint": null,
+              "distance": 69.9,
+              "package_text_risk_heuristic": 0,
+              "score": 76
+            },
+            {
+              "text_unverified": "お で",
+              "category_hint": null,
+              "distance": 188.1,
+              "package_text_risk_heuristic": 0,
+              "score": 52
+            },
+            {
+              "text_unverified": "(7 種 15 品 )",
+              "category_hint": null,
+              "distance": 221.6,
+              "package_text_risk_heuristic": 0,
+              "score": 46
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "Sa 3537 24m)",
+          "number_tokens": [
+            "3537",
+            "24"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "中 国産",
+              "category_hint": null,
+              "distance": 208.4,
+              "package_text_risk_heuristic": 0,
+              "score": 48
+            },
+            {
+              "text_unverified": "お で",
+              "category_hint": null,
+              "distance": 213.3,
+              "package_text_risk_heuristic": 0,
+              "score": 47
+            },
+            {
+              "text_unverified": "(7 種 15 品 )",
+              "category_hint": null,
+              "distance": 231.8,
+              "package_text_risk_heuristic": 0,
+              "score": 44
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(7 種 15 品 )",
+          "number_tokens": [
+            "7",
+            "15"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "お で",
+              "category_hint": null,
+              "distance": 34.5,
+              "package_text_risk_heuristic": 0,
+              "score": 83
+            },
+            {
+              "text_unverified": "中 国産",
+              "category_hint": null,
+              "distance": 253.1,
+              "package_text_risk_heuristic": 0,
+              "score": 39
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        }
+      ]
     },
     {
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9759029_1157452_0.jpg",
-      "status": "error",
-      "candidate_count": 0,
-      "with_name_count": 0,
-      "with_category_count": 0,
-      "suggestions": []
+      "status": "ocr_generated_unverified",
+      "candidate_count": 74,
+      "with_name_count": 72,
+      "with_category_count": 12,
+      "suggestions": [
+        {
+          "number_line": "600",
+          "number_tokens": [
+            "600"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ヤー ジ 人 金額 の 一 例",
+              "category_hint": null,
+              "distance": 143.8,
+              "package_text_risk_heuristic": 0,
+              "score": 61
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "16",
+          "number_tokens": [
+            "16"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "限り",
+              "category_hint": null,
+              "distance": 106.3,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "10,000",
+          "number_tokens": [
+            "10,000"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "1 回 の 現金 チャ ー シ >",
+              "category_hint": null,
+              "distance": 51.5,
+              "package_text_risk_heuristic": 0,
+              "score": 80
+            },
+            {
+              "text_unverified": "ーー アワ 7 -",
+              "category_hint": null,
+              "distance": 271.7,
+              "package_text_risk_heuristic": 12,
+              "score": 24
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "30,000RF+-Yz",
+          "number_tokens": [
+            "30,000"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [],
+          "has_name_candidate": false,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "450:2.",
+          "number_tokens": [
+            "450"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [],
+          "has_name_candidate": false,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "20,000RF+-Jz",
+          "number_tokens": [
+            "20,000"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "場合 が こざ い",
+              "category_hint": null,
+              "distance": 260.1,
+              "package_text_risk_heuristic": 0,
+              "score": 38
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "300",
+          "number_tokens": [
+            "300"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "場合 が こざ い",
+              "category_hint": null,
+              "distance": 203.8,
+              "package_text_risk_heuristic": 0,
+              "score": 49
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "aaa 17 1 所 )",
+          "number_tokens": [
+            "17",
+            "1"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ご 家族 様 3 点 ま",
+              "category_hint": null,
+              "distance": 128.0,
+              "package_text_risk_heuristic": 0,
+              "score": 64
+            },
+            {
+              "text_unverified": "岡山 産 他",
+              "category_hint": null,
+              "distance": 155.8,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            },
+            {
+              "text_unverified": "ロー",
+              "category_hint": null,
+              "distance": 174.7,
+              "package_text_risk_heuristic": 0,
+              "score": 55
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "/ 1008)",
+          "number_tokens": [
+            "1008"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "当たり",
+              "category_hint": null,
+              "distance": 29.2,
+              "package_text_risk_heuristic": 0,
+              "score": 84
+            },
+            {
+              "text_unverified": "3kg ま で",
+              "category_hint": null,
+              "distance": 41.1,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance": 138.1,
+              "package_text_risk_heuristic": 0,
+              "score": 62
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "17)",
+          "number_tokens": [
+            "17"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "3kg ま で )",
+              "category_hint": null,
+              "distance": 95.3,
+              "package_text_risk_heuristic": 0,
+              "score": 71
+            },
+            {
+              "text_unverified": "イス",
+              "category_hint": null,
+              "distance": 115.3,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            },
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance": 174.0,
+              "package_text_risk_heuristic": 0,
+              "score": 55
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "11",
+          "number_tokens": [
+            "11"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance": 19.6,
+              "package_text_risk_heuristic": 0,
+              "score": 86
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance": 56.7,
+              "package_text_risk_heuristic": 12,
+              "score": 67
+            },
+            {
+              "text_unverified": "の っ",
+              "category_hint": null,
+              "distance": 193.0,
+              "package_text_risk_heuristic": 12,
+              "score": 39
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "49n",
+          "number_tokens": [
+            "49"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "牛肉 60%: 豚 肉 40% 使 用",
+              "category_hint": "精肉",
+              "distance": 194.7,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            },
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance": 197.5,
+              "package_text_risk_heuristic": 0,
+              "score": 51
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance": 153.4,
+              "package_text_risk_heuristic": 12,
+              "score": 47
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "| | (8) 1) (BA17 1 円)",
+          "number_tokens": [
+            "8",
+            "1",
+            "17",
+            "1"
+          ],
+          "has_currency_marker": true,
+          "name_candidates": [
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance": 126.0,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance": 115.1,
+              "package_text_risk_heuristic": 12,
+              "score": 55
+            },
+            {
+              "text_unverified": "えて か れい",
+              "category_hint": null,
+              "distance": 207.3,
+              "package_text_risk_heuristic": 0,
+              "score": 49
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "204m",
+          "number_tokens": [
+            "204"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "みき",
+              "category_hint": null,
+              "distance": 151.6,
+              "package_text_risk_heuristic": 0,
+              "score": 60
+            },
+            {
+              "text_unverified": "人 Rb ツガ シウス",
+              "category_hint": null,
+              "distance": 96.1,
+              "package_text_risk_heuristic": 12,
+              "score": 59
+            },
+            {
+              "text_unverified": "牛肉 60%: 豚 肉 40% 使 用",
+              "category_hint": "精肉",
+              "distance": 223.3,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "了 1 円 )",
+          "number_tokens": [
+            "1"
+          ],
+          "has_currency_marker": true,
+          "name_candidates": [
+            {
+              "text_unverified": "ご 家族 様 5 点 ま で",
+              "category_hint": null,
+              "distance": 167.1,
+              "package_text_risk_heuristic": 0,
+              "score": 57
+            },
+            {
+              "text_unverified": "道産 他",
+              "category_hint": null,
+              "distance": 193.2,
+              "package_text_risk_heuristic": 0,
+              "score": 51
+            },
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance": 193.9,
+              "package_text_risk_heuristic": 0,
+              "score": 51
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "牛肉 60%: 豚 肉 40% 使 用",
+          "number_tokens": [
+            "60",
+            "40"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "部 位",
+              "category_hint": null,
+              "distance": 223.7,
+              "package_text_risk_heuristic": 0,
+              "score": 45
+            },
+            {
+              "text_unverified": "モ 角 切",
+              "category_hint": null,
+              "distance": 229.9,
+              "package_text_risk_heuristic": 0,
+              "score": 44
+            },
+            {
+              "text_unverified": "イス",
+              "category_hint": null,
+              "distance": 243.1,
+              "package_text_risk_heuristic": 0,
+              "score": 41
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(税込 1",
+          "number_tokens": [
+            "1"
+          ],
+          "has_currency_marker": true,
+          "name_candidates": [
+            {
+              "text_unverified": "アン",
+              "category_hint": null,
+              "distance": 127.2,
+              "package_text_risk_heuristic": 12,
+              "score": 53
+            },
+            {
+              "text_unverified": "長野 産",
+              "category_hint": null,
+              "distance": 186.0,
+              "package_text_risk_heuristic": 0,
+              "score": 53
+            },
+            {
+              "text_unverified": "岡山 産 他",
+              "category_hint": null,
+              "distance": 234.3,
+              "package_text_risk_heuristic": 0,
+              "score": 43
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "2 を 4115)",
+          "number_tokens": [
+            "2",
+            "4115"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance": 209.1,
+              "package_text_risk_heuristic": 0,
+              "score": 62
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance": 155.6,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            },
+            {
+              "text_unverified": "えて か れい",
+              "category_hint": null,
+              "distance": 200.0,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "Gs) (127)",
+          "number_tokens": [
+            "127"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "えて か れい",
+              "category_hint": null,
+              "distance": 19.2,
+              "package_text_risk_heuristic": 0,
+              "score": 86
+            },
+            {
+              "text_unverified": "ひと 辛子 明 太子 | たり",
+              "category_hint": null,
+              "distance": 162.9,
+              "package_text_risk_heuristic": 0,
+              "score": 57
+            },
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance": 309.0,
+              "package_text_risk_heuristic": 0,
+              "score": 42
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "DONE Sy. 107m) (wa378n)",
+          "number_tokens": [
+            "107",
+            "378"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "長野 産",
+              "category_hint": null,
+              "distance": 100.2,
+              "package_text_risk_heuristic": 0,
+              "score": 70
+            },
+            {
+              "text_unverified": "アン",
+              "category_hint": null,
+              "distance": 140.6,
+              "package_text_risk_heuristic": 12,
+              "score": 50
+            },
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance": 216.4,
+              "package_text_risk_heuristic": 0,
+              "score": 47
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "1008",
+          "number_tokens": [
+            "1008"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ひと 辛子 明 太子 | たり",
+              "category_hint": null,
+              "distance": 54.5,
+              "package_text_risk_heuristic": 0,
+              "score": 79
+            },
+            {
+              "text_unverified": "えて か れい",
+              "category_hint": null,
+              "distance": 133.8,
+              "package_text_risk_heuristic": 0,
+              "score": 63
+            },
+            {
+              "text_unverified": "アイ リス",
+              "category_hint": null,
+              "distance": 198.9,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "f#/1008)",
+          "number_tokens": [
+            "1008"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ 小 問 切",
+              "category_hint": null,
+              "distance": 54.8,
+              "package_text_risk_heuristic": 0,
+              "score": 79
+            },
+            {
+              "text_unverified": "シー",
+              "category_hint": null,
+              "distance": 121.5,
+              "package_text_risk_heuristic": 30,
+              "score": 36
+            },
+            {
+              "text_unverified": "こつ",
+              "category_hint": null,
+              "distance": 206.8,
+              "package_text_risk_heuristic": 30,
+              "score": 19
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "3004)",
+          "number_tokens": [
+            "3004"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance": 98.0,
+              "package_text_risk_heuristic": 0,
+              "score": 84
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance": 110.0,
+              "package_text_risk_heuristic": 0,
+              "score": 68
+            },
+            {
+              "text_unverified": "ひと 辛子 明 太子 | たり",
+              "category_hint": null,
+              "distance": 122.1,
+              "package_text_risk_heuristic": 0,
+              "score": 66
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "Tan 39)",
+          "number_tokens": [
+            "39"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance": 174.0,
+              "package_text_risk_heuristic": 0,
+              "score": 55
+            },
+            {
+              "text_unverified": "ど ま と",
+              "category_hint": null,
+              "distance": 177.4,
+              "package_text_risk_heuristic": 0,
+              "score": 55
+            },
+            {
+              "text_unverified": "道産 他",
+              "category_hint": null,
+              "distance": 202.6,
+              "package_text_risk_heuristic": 0,
+              "score": 49
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "gp, EES 1008 }",
+          "number_tokens": [
+            "1008"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ハウ ス",
+              "category_hint": null,
+              "distance": 90.0,
+              "package_text_risk_heuristic": 0,
+              "score": 72
+            },
+            {
+              "text_unverified": "こく まろ カレ ー ド |",
+              "category_hint": null,
+              "distance": 167.9,
+              "package_text_risk_heuristic": 0,
+              "score": 56
+            },
+            {
+              "text_unverified": "な め",
+              "category_hint": null,
+              "distance": 200.9,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "#1 5X15 本 入 |",
+          "number_tokens": [
+            "1",
+            "5",
+            "15"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance": 95.7,
+              "package_text_risk_heuristic": 0,
+              "score": 85
+            },
+            {
+              "text_unverified": "(@ ノ ルウ ェ ー マ は",
+              "category_hint": null,
+              "distance": 150.7,
+              "package_text_risk_heuristic": 0,
+              "score": 60
+            },
+            {
+              "text_unverified": "ひと 辛子 明 太子 | たり",
+              "category_hint": null,
+              "distance": 235.7,
+              "package_text_risk_heuristic": 0,
+              "score": 43
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "20a",
+          "number_tokens": [
+            "20"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "塩 さば [8",
+              "category_hint": "鮮魚",
+              "distance": 177.3,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            },
+            {
+              "text_unverified": "日 の 出",
+              "category_hint": null,
+              "distance": 122.6,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            },
+            {
+              "text_unverified": "限り",
+              "category_hint": null,
+              "distance": 24.3,
+              "package_text_risk_heuristic": 30,
+              "score": 55
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "4,1 50F)",
+          "number_tokens": [
+            "50"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ る コー ン",
+              "category_hint": null,
+              "distance": 140.0,
+              "package_text_risk_heuristic": 0,
+              "score": 62
+            },
+            {
+              "text_unverified": "マル ちゃ ん",
+              "category_hint": null,
+              "distance": 183.6,
+              "package_text_risk_heuristic": 0,
+              "score": 53
+            },
+            {
+              "text_unverified": "つ 盛 り",
+              "category_hint": null,
+              "distance": 187.3,
+              "package_text_risk_heuristic": 0,
+              "score": 53
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "ax を 171P",
+          "number_tokens": [
+            "171"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "リー バ ]",
+              "category_hint": null,
+              "distance": 239.3,
+              "package_text_risk_heuristic": 0,
+              "score": 42
+            },
+            {
+              "text_unverified": "(人 3 の 一 多 で す",
+              "category_hint": null,
+              "distance": 196.9,
+              "package_text_risk_heuristic": 12,
+              "score": 39
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance": 285.6,
+              "package_text_risk_heuristic": 0,
+              "score": 33
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "gene 74",
+          "number_tokens": [
+            "74"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "族 様 合計 2 点 まで 】",
+              "category_hint": null,
+              "distance": 103.0,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            },
+            {
+              "text_unverified": "テク フト",
+              "category_hint": null,
+              "distance": 160.8,
+              "package_text_risk_heuristic": 0,
+              "score": 58
+            },
+            {
+              "text_unverified": "@ レ モン",
+              "category_hint": null,
+              "distance": 213.2,
+              "package_text_risk_heuristic": 0,
+              "score": 47
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(1308)",
+          "number_tokens": [
+            "1308"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "リー バ ]",
+              "category_hint": null,
+              "distance": 66.7,
+              "package_text_risk_heuristic": 0,
+              "score": 77
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance": 127.2,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            },
+            {
+              "text_unverified": "シリ",
+              "category_hint": null,
+              "distance": 79.1,
+              "package_text_risk_heuristic": 12,
+              "score": 62
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "病 ケア (95g)",
+          "number_tokens": [
+            "95"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "シリ",
+              "category_hint": null,
+              "distance": 73.4,
+              "package_text_risk_heuristic": 12,
+              "score": 63
+            },
+            {
+              "text_unverified": "テク フト",
+              "category_hint": null,
+              "distance": 155.0,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance": 155.7,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "oaeetitest (1808) (#681077)",
+          "number_tokens": [
+            "1808"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "4 コ 和 )",
+              "category_hint": null,
+              "distance": 121.2,
+              "package_text_risk_heuristic": 0,
+              "score": 66
+            },
+            {
+              "text_unverified": "コジ ママ や",
+              "category_hint": null,
+              "distance": 117.0,
+              "package_text_risk_heuristic": 12,
+              "score": 55
+            },
+            {
+              "text_unverified": "ーー",
+              "category_hint": null,
+              "distance": 35.4,
+              "package_text_risk_heuristic": 30,
+              "score": 53
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(WIAs592 由",
+          "number_tokens": [
+            "592"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "病 ケア (95g)",
+              "category_hint": null,
+              "distance": 125.8,
+              "package_text_risk_heuristic": 12,
+              "score": 53
+            },
+            {
+              "text_unverified": "テク フト",
+              "category_hint": null,
+              "distance": 200.4,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            },
+            {
+              "text_unverified": "族 様 合計 2 点 まで 】",
+              "category_hint": null,
+              "distance": 225.0,
+              "package_text_risk_heuristic": 0,
+              "score": 45
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(A273)",
+          "number_tokens": [
+            "273"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "リー バ ]",
+              "category_hint": null,
+              "distance": 153.9,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            },
+            {
+              "text_unverified": "シリ",
+              "category_hint": null,
+              "distance": 113.3,
+              "package_text_risk_heuristic": 12,
+              "score": 55
+            },
+            {
+              "text_unverified": "ピ と *",
+              "category_hint": null,
+              "distance": 202.2,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "WEOIF102) (0646322F)| | guava} 提 王",
+          "number_tokens": [
+            "102"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ーー —",
+              "category_hint": null,
+              "distance": 163.0,
+              "package_text_risk_heuristic": 0,
+              "score": 57
+            },
+            {
+              "text_unverified": "* 肉 厚 し いた |",
+              "category_hint": null,
+              "distance": 167.3,
+              "package_text_risk_heuristic": 0,
+              "score": 57
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance": 201.6,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(1408)",
+          "number_tokens": [
+            "1408"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "新鮮 卵 の",
+              "category_hint": "乳製品・卵",
+              "distance": 60.7,
+              "package_text_risk_heuristic": 0,
+              "score": 92
+            },
+            {
+              "text_unverified": "焼 プリ ン",
+              "category_hint": null,
+              "distance": 17.8,
+              "package_text_risk_heuristic": 0,
+              "score": 86
+            },
+            {
+              "text_unverified": "ぬき そば うき",
+              "category_hint": "米・麺・パン",
+              "distance": 187.2,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(834 160F))",
+          "number_tokens": [
+            "834",
+            "160"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "* 肉 厚 し いた |",
+              "category_hint": null,
+              "distance": 99.1,
+              "package_text_risk_heuristic": 0,
+              "score": 70
+            },
+            {
+              "text_unverified": "お か ら ド ー ナ ツウ",
+              "category_hint": null,
+              "distance": 104.4,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            },
+            {
+              "text_unverified": "(3 コ 入 )",
+              "category_hint": null,
+              "distance": 115.0,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "60",
+          "number_tokens": [
+            "60"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "コジ ママ や",
+              "category_hint": null,
+              "distance": 176.0,
+              "package_text_risk_heuristic": 12,
+              "score": 43
+            },
+            {
+              "text_unverified": "4 コ 和 )",
+              "category_hint": null,
+              "distance": 302.0,
+              "package_text_risk_heuristic": 0,
+              "score": 30
+            },
+            {
+              "text_unverified": "ーー",
+              "category_hint": null,
+              "distance": 220.1,
+              "package_text_risk_heuristic": 30,
+              "score": 16
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "pH (908x252)",
+          "number_tokens": [
+            "908",
+            "252"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ナー",
+              "category_hint": null,
+              "distance": 46.4,
+              "package_text_risk_heuristic": 0,
+              "score": 81
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance": 78.3,
+              "package_text_risk_heuristic": 0,
+              "score": 74
+            },
+            {
+              "text_unverified": "* 肉 厚 し いた |",
+              "category_hint": null,
+              "distance": 218.6,
+              "package_text_risk_heuristic": 0,
+              "score": 46
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(08x28) |",
+          "number_tokens": [
+            "28"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ナー",
+              "category_hint": null,
+              "distance": 77.2,
+              "package_text_risk_heuristic": 0,
+              "score": 75
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance": 116.8,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            },
+            {
+              "text_unverified": "* 肉 厚 し いた |",
+              "category_hint": null,
+              "distance": 257.5,
+              "package_text_risk_heuristic": 0,
+              "score": 39
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "54)",
+          "number_tokens": [
+            "54"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance": 87.1,
+              "package_text_risk_heuristic": 0,
+              "score": 73
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance": 110.8,
+              "package_text_risk_heuristic": 0,
+              "score": 68
+            },
+            {
+              "text_unverified": "力 コー ラ",
+              "category_hint": null,
+              "distance": 126.8,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "= 139)",
+          "number_tokens": [
+            "139"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "クス ナ",
+              "category_hint": null,
+              "distance": 93.1,
+              "package_text_risk_heuristic": 0,
+              "score": 71
+            },
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance": 212.6,
+              "package_text_risk_heuristic": 0,
+              "score": 47
+            },
+            {
+              "text_unverified": "丸大 食品",
+              "category_hint": null,
+              "distance": 242.4,
+              "package_text_risk_heuristic": 0,
+              "score": 42
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "68",
+          "number_tokens": [
+            "68"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance": 104.4,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance": 121.9,
+              "package_text_risk_heuristic": 0,
+              "score": 66
+            },
+            {
+              "text_unverified": "人 ツー ス",
+              "category_hint": null,
+              "distance": 80.1,
+              "package_text_risk_heuristic": 12,
+              "score": 62
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(708)",
+          "number_tokens": [
+            "708"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "リャン",
+              "category_hint": null,
+              "distance": 30.0,
+              "package_text_risk_heuristic": 30,
+              "score": 54
+            },
+            {
+              "text_unverified": "ロー リク イッ クア ッ プ",
+              "category_hint": null,
+              "distance": 180.2,
+              "package_text_risk_heuristic": 0,
+              "score": 54
+            },
+            {
+              "text_unverified": "グラ タン",
+              "category_hint": null,
+              "distance": 188.6,
+              "package_text_risk_heuristic": 0,
+              "score": 52
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(166g)",
+          "number_tokens": [
+            "166"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "チョ コレ ー ト",
+              "category_hint": null,
+              "distance": 28.5,
+              "package_text_risk_heuristic": 0,
+              "score": 84
+            },
+            {
+              "text_unverified": "ビニ ナッ ブロック «",
+              "category_hint": null,
+              "distance": 70.1,
+              "package_text_risk_heuristic": 0,
+              "score": 76
+            },
+            {
+              "text_unverified": "タ め",
+              "category_hint": null,
+              "distance": 150.5,
+              "package_text_risk_heuristic": 0,
+              "score": 60
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(@3322m) (1808)",
+          "number_tokens": [
+            "3322",
+            "1808"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance": 42.8,
+              "package_text_risk_heuristic": 0,
+              "score": 81
+            },
+            {
+              "text_unverified": "ーーーー",
+              "category_hint": null,
+              "distance": 44.0,
+              "package_text_risk_heuristic": 0,
+              "score": 81
+            },
+            {
+              "text_unverified": "ビニ ナッ ブロック «",
+              "category_hint": null,
+              "distance": 159.9,
+              "package_text_risk_heuristic": 0,
+              "score": 58
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(@a538m)",
+          "number_tokens": [
+            "538"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ナッ ツ",
+              "category_hint": null,
+              "distance": 102.1,
+              "package_text_risk_heuristic": 0,
+              "score": 70
+            },
+            {
+              "text_unverified": "ーーーー",
+              "category_hint": null,
+              "distance": 112.3,
+              "package_text_risk_heuristic": 0,
+              "score": 68
+            },
+            {
+              "text_unverified": "くら し 良好",
+              "category_hint": null,
+              "distance": 114.0,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "ons 35>",
+          "number_tokens": [
+            "35"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance": 208.0,
+              "package_text_risk_heuristic": 0,
+              "score": 48
+            },
+            {
+              "text_unverified": "ayes ュー",
+              "category_hint": null,
+              "distance": 39.3,
+              "package_text_risk_heuristic": 48,
+              "score": 34
+            },
+            {
+              "text_unverified": "イン マス カ 2",
+              "category_hint": null,
+              "distance": 238.8,
+              "package_text_risk_heuristic": 12,
+              "score": 30
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(108g)",
+          "number_tokens": [
+            "108"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "| くら し",
+              "category_hint": null,
+              "distance": 39.6,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "RMAMSEN | ポー ル タ イ プ ,",
+              "category_hint": null,
+              "distance": 78.5,
+              "package_text_risk_heuristic": 0,
+              "score": 74
+            },
+            {
+              "text_unverified": "オリ ー ブ ォ イル)",
+              "category_hint": null,
+              "distance": 187.0,
+              "package_text_risk_heuristic": 0,
+              "score": 53
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(80g)",
+          "number_tokens": [
+            "80"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "RMAMSEN | ポー ル タ イ プ ,",
+              "category_hint": null,
+              "distance": 36.2,
+              "package_text_risk_heuristic": 0,
+              "score": 83
+            },
+            {
+              "text_unverified": "ぐら 良好",
+              "category_hint": null,
+              "distance": 67.6,
+              "package_text_risk_heuristic": 12,
+              "score": 64
+            },
+            {
+              "text_unverified": "| くら し",
+              "category_hint": null,
+              "distance": 127.8,
+              "package_text_risk_heuristic": 0,
+              "score": 64
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "103A)",
+          "number_tokens": [
+            "103"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "イン マス カ 2",
+              "category_hint": null,
+              "distance": 41.6,
+              "package_text_risk_heuristic": 12,
+              "score": 70
+            },
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance": 170.7,
+              "package_text_risk_heuristic": 0,
+              "score": 56
+            },
+            {
+              "text_unverified": "ん で WWD/",
+              "category_hint": null,
+              "distance": 53.3,
+              "package_text_risk_heuristic": 30,
+              "score": 49
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(139A)",
+          "number_tokens": [
+            "139"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "RMAMSEN | ポー ル タ イ プ ,",
+              "category_hint": null,
+              "distance": 114.3,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            },
+            {
+              "text_unverified": "チョ コレ ー ト",
+              "category_hint": null,
+              "distance": 160.4,
+              "package_text_risk_heuristic": 0,
+              "score": 58
+            },
+            {
+              "text_unverified": "ぐら 良好",
+              "category_hint": null,
+              "distance": 135.9,
+              "package_text_risk_heuristic": 12,
+              "score": 51
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(213g)",
+          "number_tokens": [
+            "213"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "III くら し 良好",
+              "category_hint": null,
+              "distance": 59.0,
+              "package_text_risk_heuristic": 12,
+              "score": 66
+            },
+            {
+              "text_unverified": "ーーーー",
+              "category_hint": null,
+              "distance": 153.3,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            },
+            {
+              "text_unverified": "イレ クリ ー ナ",
+              "category_hint": null,
+              "distance": 167.2,
+              "package_text_risk_heuristic": 0,
+              "score": 57
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(400g)",
+          "number_tokens": [
+            "400"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "バー ジン",
+              "category_hint": null,
+              "distance": 23.0,
+              "package_text_risk_heuristic": 0,
+              "score": 85
+            },
+            {
+              "text_unverified": "オリ ー ブ ォ イル)",
+              "category_hint": null,
+              "distance": 67.0,
+              "package_text_risk_heuristic": 0,
+              "score": 77
+            },
+            {
+              "text_unverified": "く 5 し 良 婦 ( 味 の",
+              "category_hint": null,
+              "distance": 98.1,
+              "package_text_risk_heuristic": 12,
+              "score": 58
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "HRW (2508)",
+          "number_tokens": [
+            "2508"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "RMAMSEN | ポー ル タ イ プ ,",
+              "category_hint": null,
+              "distance": 185.8,
+              "package_text_risk_heuristic": 0,
+              "score": 53
+            },
+            {
+              "text_unverified": "| くら し",
+              "category_hint": null,
+              "distance": 209.5,
+              "package_text_risk_heuristic": 0,
+              "score": 48
+            },
+            {
+              "text_unverified": "バー ジン",
+              "category_hint": null,
+              "distance": 216.1,
+              "package_text_risk_heuristic": 0,
+              "score": 47
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(税込 754 円 )",
+          "number_tokens": [
+            "754"
+          ],
+          "has_currency_marker": true,
+          "name_candidates": [
+            {
+              "text_unverified": "バー ジン",
+              "category_hint": null,
+              "distance": 117.0,
+              "package_text_risk_heuristic": 0,
+              "score": 67
+            },
+            {
+              "text_unverified": "オリ ー ブ ォ イル)",
+              "category_hint": null,
+              "distance": 141.0,
+              "package_text_risk_heuristic": 0,
+              "score": 62
+            },
+            {
+              "text_unverified": "SO は に",
+              "category_hint": null,
+              "distance": 85.0,
+              "package_text_risk_heuristic": 12,
+              "score": 61
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "5008",
+          "number_tokens": [
+            "5008"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance": 110.7,
+              "package_text_risk_heuristic": 0,
+              "score": 68
+            },
+            {
+              "text_unverified": "バー ジン",
+              "category_hint": null,
+              "distance": 199.0,
+              "package_text_risk_heuristic": 0,
+              "score": 50
+            },
+            {
+              "text_unverified": "クッ キン グ シ ー|",
+              "category_hint": null,
+              "distance": 204.7,
+              "package_text_risk_heuristic": 0,
+              "score": 49
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "者 /(70gx3 コ 入 )",
+          "number_tokens": [
+            "70",
+            "3"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance": 49.0,
+              "package_text_risk_heuristic": 0,
+              "score": 80
+            },
+            {
+              "text_unverified": "@ 生 泊 仕 立て @ い ちご",
+              "category_hint": null,
+              "distance": 33.2,
+              "package_text_risk_heuristic": 12,
+              "score": 71
+            },
+            {
+              "text_unverified": "ドトール",
+              "category_hint": null,
+              "distance": 72.4,
+              "package_text_risk_heuristic": 12,
+              "score": 64
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(WsA を 107 由 )",
+          "number_tokens": [
+            "107"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ 聞 し 黒豆 (SOg)",
+              "category_hint": null,
+              "distance": 90.1,
+              "package_text_risk_heuristic": 0,
+              "score": 72
+            },
+            {
+              "text_unverified": "ラス",
+              "category_hint": null,
+              "distance": 234.4,
+              "package_text_risk_heuristic": 0,
+              "score": 43
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance": 251.2,
+              "package_text_risk_heuristic": 0,
+              "score": 40
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(siAs128BPy",
+          "number_tokens": [
+            "128"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance": 84.0,
+              "package_text_risk_heuristic": 0,
+              "score": 73
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance": 94.9,
+              "package_text_risk_heuristic": 0,
+              "score": 71
+            },
+            {
+              "text_unverified": "者 /(70gx3 コ 入 )",
+              "category_hint": null,
+              "distance": 107.0,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(500g)",
+          "number_tokens": [
+            "500"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance": 75.5,
+              "package_text_risk_heuristic": 0,
+              "score": 75
+            },
+            {
+              "text_unverified": "クッ キン グ シ ー|",
+              "category_hint": null,
+              "distance": 196.5,
+              "package_text_risk_heuristic": 0,
+              "score": 51
+            },
+            {
+              "text_unverified": "当店 で は 、「 税 抜 ] 価 格 で レジ 精算",
+              "category_hint": null,
+              "distance": 222.9,
+              "package_text_risk_heuristic": 0,
+              "score": 45
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "gS BS e120)",
+          "number_tokens": [
+            "120"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance": 47.9,
+              "package_text_risk_heuristic": 0,
+              "score": 80
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance": 60.6,
+              "package_text_risk_heuristic": 0,
+              "score": 78
+            },
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance": 67.2,
+              "package_text_risk_heuristic": 0,
+              "score": 77
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(800g)",
+          "number_tokens": [
+            "800"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance": 102.2,
+              "package_text_risk_heuristic": 0,
+              "score": 84
+            },
+            {
+              "text_unverified": "が ィ プ",
+              "category_hint": null,
+              "distance": 39.8,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance": 124.8,
+              "package_text_risk_heuristic": 0,
+              "score": 79
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(税込 171 円 )",
+          "number_tokens": [
+            "171"
+          ],
+          "has_currency_marker": true,
+          "name_candidates": [
+            {
+              "text_unverified": "当店 で は 、「 税 抜 ] 価 格 で レジ 精算",
+              "category_hint": null,
+              "distance": 122.8,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            },
+            {
+              "text_unverified": "フラ イ バ ン で 使え る",
+              "category_hint": null,
+              "distance": 126.1,
+              "package_text_risk_heuristic": 0,
+              "score": 65
+            },
+            {
+              "text_unverified": "ド ケ チャ ッ プ .",
+              "category_hint": null,
+              "distance": 130.4,
+              "package_text_risk_heuristic": 0,
+              "score": 64
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(25cmxom)",
+          "number_tokens": [
+            "25"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "フラ イ バ ン で 使え る",
+              "category_hint": null,
+              "distance": 40.7,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "デー",
+              "category_hint": null,
+              "distance": 98.0,
+              "package_text_risk_heuristic": 0,
+              "score": 70
+            },
+            {
+              "text_unverified": "クッ キン グ シ ー|",
+              "category_hint": null,
+              "distance": 133.0,
+              "package_text_risk_heuristic": 0,
+              "score": 63
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(6 46R)",
+          "number_tokens": [
+            "6",
+            "46"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance": 111.0,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance": 136.7,
+              "package_text_risk_heuristic": 0,
+              "score": 77
+            },
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance": 196.8,
+              "package_text_risk_heuristic": 0,
+              "score": 51
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(was12BP",
+          "number_tokens": [
+            "12"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance": 81.0,
+              "package_text_risk_heuristic": 0,
+              "score": 74
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance": 96.2,
+              "package_text_risk_heuristic": 0,
+              "score": 71
+            },
+            {
+              "text_unverified": "ー ュ",
+              "category_hint": null,
+              "distance": 142.8,
+              "package_text_risk_heuristic": 0,
+              "score": 61
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "#/(13) (81 28m)",
+          "number_tokens": [
+            "13",
+            "81",
+            "28"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "(WsA を 107 由 )",
+              "category_hint": null,
+              "distance": 157.1,
+              "package_text_risk_heuristic": 12,
+              "score": 47
+            },
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance": 215.4,
+              "package_text_risk_heuristic": 0,
+              "score": 47
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance": 218.3,
+              "package_text_risk_heuristic": 0,
+              "score": 46
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(RA174)",
+          "number_tokens": [
+            "174"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "ぷり ぶり",
+              "category_hint": "鮮魚",
+              "distance": 104.5,
+              "package_text_risk_heuristic": 0,
+              "score": 83
+            },
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance": 111.1,
+              "package_text_risk_heuristic": 0,
+              "score": 82
+            },
+            {
+              "text_unverified": "が ィ プ",
+              "category_hint": null,
+              "distance": 103.7,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(wae14in)",
+          "number_tokens": [
+            "14"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "コー と = フィ ルター",
+              "category_hint": null,
+              "distance": 102.6,
+              "package_text_risk_heuristic": 0,
+              "score": 69
+            },
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance": 158.5,
+              "package_text_risk_heuristic": 0,
+              "score": 58
+            },
+            {
+              "text_unverified": "ハブ プラ シ",
+              "category_hint": null,
+              "distance": 172.7,
+              "package_text_risk_heuristic": 0,
+              "score": 55
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "| as86n)",
+          "number_tokens": [
+            "86"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance": 48.0,
+              "package_text_risk_heuristic": 0,
+              "score": 80
+            },
+            {
+              "text_unverified": "ハブ プラ シ",
+              "category_hint": null,
+              "distance": 96.6,
+              "package_text_risk_heuristic": 0,
+              "score": 71
+            },
+            {
+              "text_unverified": "トイ レク リー ナー",
+              "category_hint": null,
+              "distance": 121.3,
+              "package_text_risk_heuristic": 0,
+              "score": 66
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "(RA108 丁",
+          "number_tokens": [
+            "108"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "トイ レク リー ナー",
+              "category_hint": null,
+              "distance": 75.3,
+              "package_text_risk_heuristic": 0,
+              "score": 75
+            },
+            {
+              "text_unverified": "の 合 |",
+              "category_hint": null,
+              "distance": 133.4,
+              "package_text_risk_heuristic": 0,
+              "score": 63
+            },
+            {
+              "text_unverified": "が ィ プ",
+              "category_hint": null,
+              "distance": 157.2,
+              "package_text_risk_heuristic": 0,
+              "score": 59
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": false,
+          "price_verified": false,
+          "publish_allowed": false
+        },
+        {
+          "number_line": "10",
+          "number_tokens": [
+            "10"
+          ],
+          "has_currency_marker": false,
+          "name_candidates": [
+            {
+              "text_unverified": "@ コ ー ヒ ー た っ 00:",
+              "category_hint": null,
+              "distance": 163.2,
+              "package_text_risk_heuristic": 0,
+              "score": 57
+            },
+            {
+              "text_unverified": "大 粒 お むき えび",
+              "category_hint": "鮮魚",
+              "distance": 244.8,
+              "package_text_risk_heuristic": 0,
+              "score": 55
+            },
+            {
+              "text_unverified": "|@ 生 乳 た っ ぷり ラテ",
+              "category_hint": null,
+              "distance": 179.2,
+              "package_text_risk_heuristic": 0,
+              "score": 54
+            }
+          ],
+          "has_name_candidate": true,
+          "has_category_hint": true,
+          "price_verified": false,
+          "publish_allowed": false
+        }
+      ]
     }
   ]
 }
