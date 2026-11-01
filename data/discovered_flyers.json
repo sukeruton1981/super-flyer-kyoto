@@ -1,11 +1,12 @@
 {
-  "last_checked_at_jst": "2026-10-31T09:44:53+09:00",
+  "last_checked_at_jst": "2026-11-01T09:44:28+09:00",
   "checks": [
     {
       "shop": "スーパーマツモト 桂川店",
       "url": "https://chirashi-guide.com/%E4%BA%AC%E9%83%BD%E5%BA%9C/%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA/197001/",
-      "status": "error",
-      "detail": "URLError: <urlopen error [Errno 110] Connection timed out>"
+      "status": "ok",
+      "found_links": 11,
+      "new_links": 3
     }
   ],
   "flyers": [
@@ -157,6 +158,24 @@
       "shop": "スーパーマツモト 桂川店",
       "url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9798569_1200225_0.jpg",
       "first_seen_at_jst": "2026-10-27T09:29:08+09:00",
+      "status": "unverified"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/11/651/651-9819670_1012308_0.jpg",
+      "first_seen_at_jst": "2026-11-01T09:44:28+09:00",
+      "status": "unverified"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/11/651/651-9819701_1111896_0.jpg",
+      "first_seen_at_jst": "2026-11-01T09:44:28+09:00",
+      "status": "unverified"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/11/651/651-9819702_956195_0.jpg",
+      "first_seen_at_jst": "2026-11-01T09:44:28+09:00",
       "status": "unverified"
     }
   ],
