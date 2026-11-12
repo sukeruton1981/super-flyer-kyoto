@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-11T09:46:50+09:00",
+  "generated_at_jst": "2026-11-12T09:57:50+09:00",
   "stage": "FULLTEXT_LAYOUT_REVIEW_ONLY",
   "verified_products": 0,
   "published_offers": 0,
@@ -7,10 +7,2905 @@
     {
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
-      "status": "error",
+      "status": "ocr_generated_unverified",
       "product_prices_verified": 0,
       "offer_import_allowed": false,
-      "error": "PermissionError: Publisher robots policy disallows this image"
+      "line_count": 241,
+      "lines": [
+        {
+          "text": "mee | 16’ 31s |",
+          "box": {
+            "left": 1362,
+            "top": 27,
+            "width": 591,
+            "height": 147
+          },
+          "average_ocr_confidence": 50.1,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "jj",
+          "box": {
+            "left": 262,
+            "top": 29,
+            "width": 90,
+            "height": 103
+          },
+          "average_ocr_confidence": 34.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "“",
+          "box": {
+            "left": 655,
+            "top": 33,
+            "width": 15,
+            "height": 9
+          },
+          "average_ocr_confidence": 28.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "o7",
+          "box": {
+            "left": 166,
+            "top": 38,
+            "width": 94,
+            "height": 98
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ped",
+          "box": {
+            "left": 738,
+            "top": 51,
+            "width": 55,
+            "height": 34
+          },
+          "average_ocr_confidence": 69.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "eo",
+          "box": {
+            "left": 746,
+            "top": 58,
+            "width": 21,
+            "height": 11
+          },
+          "average_ocr_confidence": 36.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "LD",
+          "box": {
+            "left": 305,
+            "top": 72,
+            "width": 53,
+            "height": 53
+          },
+          "average_ocr_confidence": 12.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "|",
+          "box": {
+            "left": 261,
+            "top": 84,
+            "width": 3,
+            "height": 18
+          },
+          "average_ocr_confidence": 72.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "¢_=",
+          "box": {
+            "left": 966,
+            "top": 87,
+            "width": 223,
+            "height": 107
+          },
+          "average_ocr_confidence": 9.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "4",
+          "box": {
+            "left": 170,
+            "top": 90,
+            "width": 28,
+            "height": 57
+          },
+          "average_ocr_confidence": 36.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": ".",
+          "box": {
+            "left": 665,
+            "top": 100,
+            "width": 3,
+            "height": 1
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "し ー ケニー ンー",
+          "box": {
+            "left": 196,
+            "top": 108,
+            "width": 197,
+            "height": 41
+          },
+          "average_ocr_confidence": 64.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "!",
+          "box": {
+            "left": 1220,
+            "top": 112,
+            "width": 66,
+            "height": 244
+          },
+          "average_ocr_confidence": 31.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "by",
+          "box": {
+            "left": 512,
+            "top": 124,
+            "width": 210,
+            "height": 290
+          },
+          "average_ocr_confidence": 57.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "yp",
+          "box": {
+            "left": 62,
+            "top": 130,
+            "width": 117,
+            "height": 40
+          },
+          "average_ocr_confidence": 1.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "has",
+          "box": {
+            "left": 1461,
+            "top": 166,
+            "width": 223,
+            "height": 152
+          },
+          "average_ocr_confidence": 24.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "CD",
+          "box": {
+            "left": 1851,
+            "top": 175,
+            "width": 17,
+            "height": 9
+          },
+          "average_ocr_confidence": 47.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "BN",
+          "box": {
+            "left": 1877,
+            "top": 260,
+            "width": 38,
+            "height": 11
+          },
+          "average_ocr_confidence": 21.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "at",
+          "box": {
+            "left": 1172,
+            "top": 391,
+            "width": 12,
+            "height": 22
+          },
+          "average_ocr_confidence": 48.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": ">",
+          "box": {
+            "left": 1192,
+            "top": 411,
+            "width": 24,
+            "height": 120
+          },
+          "average_ocr_confidence": 18.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ーー",
+          "box": {
+            "left": 534,
+            "top": 434,
+            "width": 64,
+            "height": 7
+          },
+          "average_ocr_confidence": 42.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "対象 外 で す 。|",
+          "box": {
+            "left": 841,
+            "top": 437,
+            "width": 262,
+            "height": 74
+          },
+          "average_ocr_confidence": 92.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "!",
+          "box": {
+            "left": 576,
+            "top": 451,
+            "width": 9,
+            "height": 71
+          },
+          "average_ocr_confidence": 78.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "=.",
+          "box": {
+            "left": 591,
+            "top": 451,
+            "width": 239,
+            "height": 81
+          },
+          "average_ocr_confidence": 1.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "=",
+          "box": {
+            "left": 1281,
+            "top": 483,
+            "width": 28,
+            "height": 10
+          },
+          "average_ocr_confidence": 77.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "エー マー",
+          "box": {
+            "left": 847,
+            "top": 506,
+            "width": 43,
+            "height": 28
+          },
+          "average_ocr_confidence": 64.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ZZ",
+          "box": {
+            "left": 950,
+            "top": 513,
+            "width": 29,
+            "height": 16
+          },
+          "average_ocr_confidence": 33.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "fm",
+          "box": {
+            "left": 538,
+            "top": 514,
+            "width": 126,
+            "height": 61
+          },
+          "average_ocr_confidence": 64.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(",
+          "box": {
+            "left": 1773,
+            "top": 520,
+            "width": 21,
+            "height": 66
+          },
+          "average_ocr_confidence": 70.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "rr",
+          "box": {
+            "left": 1189,
+            "top": 524,
+            "width": 40,
+            "height": 7
+          },
+          "average_ocr_confidence": 24.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ンー デー",
+          "box": {
+            "left": 739,
+            "top": 543,
+            "width": 81,
+            "height": 32
+          },
+          "average_ocr_confidence": 62.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ーー",
+          "box": {
+            "left": 692,
+            "top": 563,
+            "width": 72,
+            "height": 14
+          },
+          "average_ocr_confidence": 28.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "NG",
+          "box": {
+            "left": 104,
+            "top": 566,
+            "width": 35,
+            "height": 13
+          },
+          "average_ocr_confidence": 22.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "1 あっ さり",
+          "box": {
+            "left": 1029,
+            "top": 568,
+            "width": 72,
+            "height": 20
+          },
+          "average_ocr_confidence": 86.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "= ail",
+          "box": {
+            "left": 928,
+            "top": 578,
+            "width": 51,
+            "height": 24
+          },
+          "average_ocr_confidence": 38.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ahi",
+          "box": {
+            "left": 184,
+            "top": 602,
+            "width": 15,
+            "height": 14
+          },
+          "average_ocr_confidence": 29.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "= Fe",
+          "box": {
+            "left": 1632,
+            "top": 603,
+            "width": 159,
+            "height": 90
+          },
+          "average_ocr_confidence": 38.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "+",
+          "box": {
+            "left": 151,
+            "top": 617,
+            "width": 60,
+            "height": 79
+          },
+          "average_ocr_confidence": 89.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "42",
+          "box": {
+            "left": 124,
+            "top": 620,
+            "width": 19,
+            "height": 8
+          },
+          "average_ocr_confidence": 72.2,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "iA",
+          "box": {
+            "left": 1131,
+            "top": 635,
+            "width": 40,
+            "height": 36
+          },
+          "average_ocr_confidence": 35.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "T vt",
+          "box": {
+            "left": 564,
+            "top": 641,
+            "width": 73,
+            "height": 48
+          },
+          "average_ocr_confidence": 43.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "い",
+          "box": {
+            "left": 702,
+            "top": 643,
+            "width": 12,
+            "height": 9
+          },
+          "average_ocr_confidence": 87.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "a",
+          "box": {
+            "left": 452,
+            "top": 668,
+            "width": 44,
+            "height": 13
+          },
+          "average_ocr_confidence": 29.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Ny",
+          "box": {
+            "left": 693,
+            "top": 671,
+            "width": 11,
+            "height": 7
+          },
+          "average_ocr_confidence": 56.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "\\",
+          "box": {
+            "left": 249,
+            "top": 672,
+            "width": 11,
+            "height": 19
+          },
+          "average_ocr_confidence": 57.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "M",
+          "box": {
+            "left": 264,
+            "top": 675,
+            "width": 11,
+            "height": 41
+          },
+          "average_ocr_confidence": 30.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ai",
+          "box": {
+            "left": 561,
+            "top": 676,
+            "width": 92,
+            "height": 47
+          },
+          "average_ocr_confidence": 50.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "7.",
+          "box": {
+            "left": 93,
+            "top": 679,
+            "width": 45,
+            "height": 52
+          },
+          "average_ocr_confidence": 37.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "=e",
+          "box": {
+            "left": 463,
+            "top": 682,
+            "width": 24,
+            "height": 7
+          },
+          "average_ocr_confidence": 34.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "—",
+          "box": {
+            "left": 896,
+            "top": 683,
+            "width": 40,
+            "height": 7
+          },
+          "average_ocr_confidence": 50.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Pena",
+          "box": {
+            "left": 1055,
+            "top": 687,
+            "width": 33,
+            "height": 17
+          },
+          "average_ocr_confidence": 31.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "m4",
+          "box": {
+            "left": 1096,
+            "top": 692,
+            "width": 33,
+            "height": 21
+          },
+          "average_ocr_confidence": 34.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Ni",
+          "box": {
+            "left": 1013,
+            "top": 695,
+            "width": 41,
+            "height": 19
+          },
+          "average_ocr_confidence": 36.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ネ レ",
+          "box": {
+            "left": 1196,
+            "top": 696,
+            "width": 17,
+            "height": 8
+          },
+          "average_ocr_confidence": 84.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "4",
+          "box": {
+            "left": 250,
+            "top": 701,
+            "width": 17,
+            "height": 20
+          },
+          "average_ocr_confidence": 73.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Tein",
+          "box": {
+            "left": 1055,
+            "top": 705,
+            "width": 39,
+            "height": 9
+          },
+          "average_ocr_confidence": 24.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "*",
+          "box": {
+            "left": 324,
+            "top": 708,
+            "width": 45,
+            "height": 52
+          },
+          "average_ocr_confidence": 67.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ie",
+          "box": {
+            "left": 565,
+            "top": 713,
+            "width": 38,
+            "height": 51
+          },
+          "average_ocr_confidence": 32.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "og",
+          "box": {
+            "left": 463,
+            "top": 725,
+            "width": 22,
+            "height": 8
+          },
+          "average_ocr_confidence": 78.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "we",
+          "box": {
+            "left": 618,
+            "top": 725,
+            "width": 29,
+            "height": 15
+          },
+          "average_ocr_confidence": 58.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "4",
+          "box": {
+            "left": 231,
+            "top": 736,
+            "width": 45,
+            "height": 97
+          },
+          "average_ocr_confidence": 84.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ジン",
+          "box": {
+            "left": 935,
+            "top": 741,
+            "width": 48,
+            "height": 21
+          },
+          "average_ocr_confidence": 3.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "と うる",
+          "box": {
+            "left": 996,
+            "top": 779,
+            "width": 29,
+            "height": 28
+          },
+          "average_ocr_confidence": 66.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "<",
+          "box": {
+            "left": 1170,
+            "top": 781,
+            "width": 12,
+            "height": 12
+          },
+          "average_ocr_confidence": 60.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "\\D",
+          "box": {
+            "left": 940,
+            "top": 784,
+            "width": 43,
+            "height": 37
+          },
+          "average_ocr_confidence": 67.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "NO",
+          "box": {
+            "left": 1167,
+            "top": 791,
+            "width": 24,
+            "height": 31
+          },
+          "average_ocr_confidence": 72.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ore",
+          "box": {
+            "left": 164,
+            "top": 803,
+            "width": 39,
+            "height": 15
+          },
+          "average_ocr_confidence": 28.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "SE",
+          "box": {
+            "left": 90,
+            "top": 816,
+            "width": 127,
+            "height": 36
+          },
+          "average_ocr_confidence": 32.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "1 o —",
+          "box": {
+            "left": 122,
+            "top": 841,
+            "width": 89,
+            "height": 34
+          },
+          "average_ocr_confidence": 24.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "1 |",
+          "box": {
+            "left": 1551,
+            "top": 844,
+            "width": 14,
+            "height": 30
+          },
+          "average_ocr_confidence": 49.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "hf",
+          "box": {
+            "left": 1106,
+            "top": 859,
+            "width": 114,
+            "height": 14
+          },
+          "average_ocr_confidence": 17.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "7660,",
+          "box": {
+            "left": 90,
+            "top": 866,
+            "width": 37,
+            "height": 16
+          },
+          "average_ocr_confidence": 74.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "poe |",
+          "box": {
+            "left": 1460,
+            "top": 870,
+            "width": 98,
+            "height": 58
+          },
+          "average_ocr_confidence": 60.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Ave",
+          "box": {
+            "left": 87,
+            "top": 897,
+            "width": 62,
+            "height": 20
+          },
+          "average_ocr_confidence": 70.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "人",
+          "box": {
+            "left": 88,
+            "top": 902,
+            "width": 18,
+            "height": 18
+          },
+          "average_ocr_confidence": 65.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Peer",
+          "box": {
+            "left": 709,
+            "top": 906,
+            "width": 224,
+            "height": 63
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "@ 十 六 茶",
+          "box": {
+            "left": 83,
+            "top": 915,
+            "width": 117,
+            "height": 50
+          },
+          "average_ocr_confidence": 84.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "UE",
+          "box": {
+            "left": 1036,
+            "top": 921,
+            "width": 244,
+            "height": 171
+          },
+          "average_ocr_confidence": 91.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "99",
+          "box": {
+            "left": 1653,
+            "top": 923,
+            "width": 218,
+            "height": 170
+          },
+          "average_ocr_confidence": 92.2,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "CeO NIK",
+          "box": {
+            "left": 1328,
+            "top": 938,
+            "width": 162,
+            "height": 48
+          },
+          "average_ocr_confidence": 15.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "@ ぎ ぎゅ っ と 濃い 十 六花",
+          "box": {
+            "left": 83,
+            "top": 951,
+            "width": 289,
+            "height": 48
+          },
+          "average_ocr_confidence": 74.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "カッ プ ヌ ー ド ル",
+          "box": {
+            "left": 729,
+            "top": 969,
+            "width": 204,
+            "height": 47
+          },
+          "average_ocr_confidence": 91.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "を",
+          "box": {
+            "left": 1613,
+            "top": 980,
+            "width": 27,
+            "height": 72
+          },
+          "average_ocr_confidence": 45.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "@ 十 六 散 麦 茶",
+          "box": {
+            "left": 85,
+            "top": 985,
+            "width": 174,
+            "height": 35
+          },
+          "average_ocr_confidence": 57.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "@ 生 めろん ば ん",
+          "box": {
+            "left": 1328,
+            "top": 985,
+            "width": 166,
+            "height": 37
+          },
+          "average_ocr_confidence": 81.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "J",
+          "box": {
+            "left": 250,
+            "top": 990,
+            "width": 29,
+            "height": 45
+          },
+          "average_ocr_confidence": 64.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(レギ ュ ラー カレ ー-",
+          "box": {
+            "left": 732,
+            "top": 994,
+            "width": 199,
+            "height": 54
+          },
+          "average_ocr_confidence": 79.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "本 :",
+          "box": {
+            "left": 366,
+            "top": 1001,
+            "width": 31,
+            "height": 46
+          },
+          "average_ocr_confidence": 89.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "S",
+          "box": {
+            "left": 387,
+            "top": 1005,
+            "width": 3,
+            "height": 1
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(し ょ こら ・ ク ラウ ン メ ロン 〉",
+          "box": {
+            "left": 1346,
+            "top": 1011,
+            "width": 241,
+            "height": 34
+          },
+          "average_ocr_confidence": 87.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "音 /(66Om2) =",
+          "box": {
+            "left": 84,
+            "top": 1021,
+            "width": 147,
+            "height": 23
+          },
+          "average_ocr_confidence": 33.2,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "@ 生 あん ば ん ほ い つぶ",
+          "box": {
+            "left": 1328,
+            "top": 1034,
+            "width": 232,
+            "height": 39
+          },
+          "average_ocr_confidence": 88.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "体",
+          "box": {
+            "left": 365,
+            "top": 1035,
+            "width": 29,
+            "height": 28
+          },
+          "average_ocr_confidence": 54.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "he",
+          "box": {
+            "left": 136,
+            "top": 1046,
+            "width": 29,
+            "height": 11
+          },
+          "average_ocr_confidence": 26.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "スフレ ンド",
+          "box": {
+            "left": 85,
+            "top": 1049,
+            "width": 253,
+            "height": 114
+          },
+          "average_ocr_confidence": 61.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "e",
+          "box": {
+            "left": 84,
+            "top": 1051,
+            "width": 18,
+            "height": 19
+          },
+          "average_ocr_confidence": 67.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "円",
+          "box": {
+            "left": 602,
+            "top": 1055,
+            "width": 34,
+            "height": 36
+          },
+          "average_ocr_confidence": 63.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Pas",
+          "box": {
+            "left": 362,
+            "top": 1056,
+            "width": 32,
+            "height": 46
+          },
+          "average_ocr_confidence": 49.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "aN",
+          "box": {
+            "left": 136,
+            "top": 1059,
+            "width": 28,
+            "height": 16
+          },
+          "average_ocr_confidence": 54.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "@ ソ ー",
+          "box": {
+            "left": 708,
+            "top": 1059,
+            "width": 70,
+            "height": 22
+          },
+          "average_ocr_confidence": 92.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "くり ぃ お ば ぱ ば ん ほ い つぶ",
+          "box": {
+            "left": 1371,
+            "top": 1060,
+            "width": 227,
+            "height": 36
+          },
+          "average_ocr_confidence": 79.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "of",
+          "box": {
+            "left": 1328,
+            "top": 1064,
+            "width": 28,
+            "height": 23
+          },
+          "average_ocr_confidence": 57.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ュ",
+          "box": {
+            "left": 940,
+            "top": 1071,
+            "width": 4,
+            "height": 2
+          },
+          "average_ocr_confidence": 45.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "くま お いも あん ば ん ほ い っ ぶ",
+          "box": {
+            "left": 1328,
+            "top": 1083,
+            "width": 268,
+            "height": 51
+          },
+          "average_ocr_confidence": 79.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(チキ ンコ ン ソ メス ー プ 付き",
+          "box": {
+            "left": 731,
+            "top": 1086,
+            "width": 222,
+            "height": 22
+          },
+          "average_ocr_confidence": 88.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "/",
+          "box": {
+            "left": 733,
+            "top": 1112,
+            "width": 11,
+            "height": 20
+          },
+          "average_ocr_confidence": 88.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "コ",
+          "box": {
+            "left": 779,
+            "top": 1114,
+            "width": 19,
+            "height": 18
+          },
+          "average_ocr_confidence": 92.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "S ES",
+          "box": {
+            "left": 1670,
+            "top": 1168,
+            "width": 180,
+            "height": 28
+          },
+          "average_ocr_confidence": 38.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "RS",
+          "box": {
+            "left": 1836,
+            "top": 1179,
+            "width": 53,
+            "height": 27
+          },
+          "average_ocr_confidence": 57.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ーー",
+          "box": {
+            "left": 965,
+            "top": 1183,
+            "width": 19,
+            "height": 2
+          },
+          "average_ocr_confidence": 53.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "トー",
+          "box": {
+            "left": 1621,
+            "top": 1187,
+            "width": 48,
+            "height": 21
+          },
+          "average_ocr_confidence": 41.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "紀",
+          "box": {
+            "left": 380,
+            "top": 1197,
+            "width": 56,
+            "height": 56
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Hi",
+          "box": {
+            "left": 167,
+            "top": 1202,
+            "width": 90,
+            "height": 85
+          },
+          "average_ocr_confidence": 30.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "EZ",
+          "box": {
+            "left": 970,
+            "top": 1226,
+            "width": 39,
+            "height": 22
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "iD 【 病",
+          "box": {
+            "left": 579,
+            "top": 1240,
+            "width": 69,
+            "height": 38
+          },
+          "average_ocr_confidence": 29.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "7",
+          "box": {
+            "left": 1266,
+            "top": 1240,
+            "width": 25,
+            "height": 26
+          },
+          "average_ocr_confidence": 70.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "AO つぶ",
+          "box": {
+            "left": 1513,
+            "top": 1244,
+            "width": 83,
+            "height": 19
+          },
+          "average_ocr_confidence": 42.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ーー NN",
+          "box": {
+            "left": 1470,
+            "top": 1250,
+            "width": 72,
+            "height": 28
+          },
+          "average_ocr_confidence": 55.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "独",
+          "box": {
+            "left": 381,
+            "top": 1255,
+            "width": 58,
+            "height": 57
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Bi",
+          "box": {
+            "left": 1646,
+            "top": 1268,
+            "width": 22,
+            "height": 15
+          },
+          "average_ocr_confidence": 58.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "H",
+          "box": {
+            "left": 460,
+            "top": 1274,
+            "width": 9,
+            "height": 16
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Be",
+          "box": {
+            "left": 1708,
+            "top": 1287,
+            "width": 64,
+            "height": 25
+          },
+          "average_ocr_confidence": 67.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "a Sy",
+          "box": {
+            "left": 984,
+            "top": 1306,
+            "width": 122,
+            "height": 19
+          },
+          "average_ocr_confidence": 40.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "reo",
+          "box": {
+            "left": 1547,
+            "top": 1312,
+            "width": 97,
+            "height": 42
+          },
+          "average_ocr_confidence": 62.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "oe",
+          "box": {
+            "left": 1752,
+            "top": 1314,
+            "width": 36,
+            "height": 11
+          },
+          "average_ocr_confidence": 30.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "— as",
+          "box": {
+            "left": 733,
+            "top": 1324,
+            "width": 69,
+            "height": 18
+          },
+          "average_ocr_confidence": 52.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "tas",
+          "box": {
+            "left": 1702,
+            "top": 1326,
+            "width": 22,
+            "height": 11
+          },
+          "average_ocr_confidence": 41.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "4",
+          "box": {
+            "left": 215,
+            "top": 1332,
+            "width": 36,
+            "height": 35
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "te",
+          "box": {
+            "left": 369,
+            "top": 1337,
+            "width": 48,
+            "height": 50
+          },
+          "average_ocr_confidence": 30.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "BIg",
+          "box": {
+            "left": 1399,
+            "top": 1343,
+            "width": 73,
+            "height": 39
+          },
+          "average_ocr_confidence": 61.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t138",
+          "box": {
+            "left": 1764,
+            "top": 1345,
+            "width": 39,
+            "height": 56
+          },
+          "average_ocr_confidence": 13.1,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "om",
+          "box": {
+            "left": 1688,
+            "top": 1367,
+            "width": 70,
+            "height": 52
+          },
+          "average_ocr_confidence": 1.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "a",
+          "box": {
+            "left": 504,
+            "top": 1379,
+            "width": 14,
+            "height": 20
+          },
+          "average_ocr_confidence": 58.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "oy",
+          "box": {
+            "left": 1409,
+            "top": 1382,
+            "width": 55,
+            "height": 29
+          },
+          "average_ocr_confidence": 36.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "a |",
+          "box": {
+            "left": 1048,
+            "top": 1388,
+            "width": 94,
+            "height": 28
+          },
+          "average_ocr_confidence": 22.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "we",
+          "box": {
+            "left": 1394,
+            "top": 1405,
+            "width": 46,
+            "height": 14
+          },
+          "average_ocr_confidence": 34.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "京 小町 絹 3、",
+          "box": {
+            "left": 513,
+            "top": 1943,
+            "width": 154,
+            "height": 54
+          },
+          "average_ocr_confidence": 65.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "アニ モン ド",
+          "box": {
+            "left": 1560,
+            "top": 1944,
+            "width": 120,
+            "height": 23
+          },
+          "average_ocr_confidence": 90.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ゃ チャ ン ポ ボン",
+          "box": {
+            "left": 1195,
+            "top": 1947,
+            "width": 101,
+            "height": 30
+          },
+          "average_ocr_confidence": 75.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "いち お し キム チュ",
+          "box": {
+            "left": 820,
+            "top": 1957,
+            "width": 191,
+            "height": 63
+          },
+          "average_ocr_confidence": 90.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "⑯ オ リ ジ ナ ル 人 @ 砂 搬 不 使用",
+          "box": {
+            "left": 1560,
+            "top": 1967,
+            "width": 179,
+            "height": 32
+          },
+          "average_ocr_confidence": 63.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ゃ キャ ベツ が",
+          "box": {
+            "left": 1195,
+            "top": 1970,
+            "width": 103,
+            "height": 18
+          },
+          "average_ocr_confidence": 88.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "3 種 の ナッ ツ",
+          "box": {
+            "left": 1576,
+            "top": 1980,
+            "width": 89,
+            "height": 36
+          },
+          "average_ocr_confidence": 90.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "し",
+          "box": {
+            "left": 1248,
+            "top": 1992,
+            "width": 14,
+            "height": 17
+          },
+          "average_ocr_confidence": 93.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "て 1 06.92%)",
+          "box": {
+            "left": 1706,
+            "top": 1995,
+            "width": 197,
+            "height": 66
+          },
+          "average_ocr_confidence": 47.4,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(2 203.047)",
+          "box": {
+            "left": 1344,
+            "top": 2001,
+            "width": 181,
+            "height": 60
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "150gX",
+          "box": {
+            "left": 535,
+            "top": 2004,
+            "width": 69,
+            "height": 19
+          },
+          "average_ocr_confidence": 88.1,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ロ",
+          "box": {
+            "left": 1143,
+            "top": 2006,
+            "width": 10,
+            "height": 11
+          },
+          "average_ocr_confidence": 70.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Oty ド",
+          "box": {
+            "left": 1603,
+            "top": 2007,
+            "width": 102,
+            "height": 14
+          },
+          "average_ocr_confidence": 56.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(180g)",
+          "box": {
+            "left": 822,
+            "top": 2013,
+            "width": 83,
+            "height": 22
+          },
+          "average_ocr_confidence": 91.0,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(86 181.44F)",
+          "box": {
+            "left": 995,
+            "top": 2016,
+            "width": 161,
+            "height": 35
+          },
+          "average_ocr_confidence": 33.3,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "gitakn",
+          "box": {
+            "left": 1195,
+            "top": 2016,
+            "width": 82,
+            "height": 32
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "#/(200me)",
+          "box": {
+            "left": 1560,
+            "top": 2024,
+            "width": 92,
+            "height": 16
+          },
+          "average_ocr_confidence": 72.9,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(税込 32 1.84 円 )",
+          "box": {
+            "left": 247,
+            "top": 2027,
+            "width": 169,
+            "height": 35
+          },
+          "average_ocr_confidence": 88.4,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "税込 95.04 円 )",
+          "box": {
+            "left": 648,
+            "top": 2027,
+            "width": 139,
+            "height": 35
+          },
+          "average_ocr_confidence": 91.5,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ーー]",
+          "box": {
+            "left": 991,
+            "top": 2080,
+            "width": 27,
+            "height": 2
+          },
+          "average_ocr_confidence": 41.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "i",
+          "box": {
+            "left": 1584,
+            "top": 2113,
+            "width": 88,
+            "height": 61
+          },
+          "average_ocr_confidence": 31.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "3b",
+          "box": {
+            "left": 511,
+            "top": 2124,
+            "width": 71,
+            "height": 62
+          },
+          "average_ocr_confidence": 33.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "sib",
+          "box": {
+            "left": 332,
+            "top": 2128,
+            "width": 64,
+            "height": 47
+          },
+          "average_ocr_confidence": 30.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "MAR",
+          "box": {
+            "left": 1032,
+            "top": 2130,
+            "width": 38,
+            "height": 12
+          },
+          "average_ocr_confidence": 89.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "BL",
+          "box": {
+            "left": 961,
+            "top": 2150,
+            "width": 6,
+            "height": 14
+          },
+          "average_ocr_confidence": 85.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "me",
+          "box": {
+            "left": 718,
+            "top": 2163,
+            "width": 57,
+            "height": 41
+          },
+          "average_ocr_confidence": 35.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Pape tin",
+          "box": {
+            "left": 1713,
+            "top": 2183,
+            "width": 133,
+            "height": 51
+          },
+          "average_ocr_confidence": 59.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ce",
+          "box": {
+            "left": 723,
+            "top": 2199,
+            "width": 43,
+            "height": 14
+          },
+          "average_ocr_confidence": 20.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "に ニー",
+          "box": {
+            "left": 1197,
+            "top": 2204,
+            "width": 34,
+            "height": 28
+          },
+          "average_ocr_confidence": 69.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "プラ だ バ BOX",
+          "box": {
+            "left": 1399,
+            "top": 2213,
+            "width": 120,
+            "height": 37
+          },
+          "average_ocr_confidence": 72.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "OONTIG",
+          "box": {
+            "left": 849,
+            "top": 2217,
+            "width": 76,
+            "height": 28
+          },
+          "average_ocr_confidence": 21.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "マテ",
+          "box": {
+            "left": 483,
+            "top": 2219,
+            "width": 27,
+            "height": 15
+          },
+          "average_ocr_confidence": 74.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "DDIN Nb",
+          "box": {
+            "left": 1029,
+            "top": 2219,
+            "width": 128,
+            "height": 44
+          },
+          "average_ocr_confidence": 40.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Ayre",
+          "box": {
+            "left": 527,
+            "top": 2228,
+            "width": 68,
+            "height": 34
+          },
+          "average_ocr_confidence": 19.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "キッ チン",
+          "box": {
+            "left": 1812,
+            "top": 2234,
+            "width": 89,
+            "height": 22
+          },
+          "average_ocr_confidence": 96.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "じゃ フ",
+          "box": {
+            "left": 112,
+            "top": 2235,
+            "width": 25,
+            "height": 13
+          },
+          "average_ocr_confidence": 68.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Vier",
+          "box": {
+            "left": 459,
+            "top": 2240,
+            "width": 47,
+            "height": 21
+          },
+          "average_ocr_confidence": 34.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "rm",
+          "box": {
+            "left": 824,
+            "top": 2244,
+            "width": 97,
+            "height": 30
+          },
+          "average_ocr_confidence": 23.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "デイ |",
+          "box": {
+            "left": 1399,
+            "top": 2251,
+            "width": 37,
+            "height": 13
+          },
+          "average_ocr_confidence": 66.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "の マ",
+          "box": {
+            "left": 1623,
+            "top": 2257,
+            "width": 73,
+            "height": 33
+          },
+          "average_ocr_confidence": 57.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "| ee",
+          "box": {
+            "left": 76,
+            "top": 2260,
+            "width": 149,
+            "height": 69
+          },
+          "average_ocr_confidence": 44.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "MM",
+          "box": {
+            "left": 991,
+            "top": 2260,
+            "width": 22,
+            "height": 21
+          },
+          "average_ocr_confidence": 31.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "タオ ル",
+          "box": {
+            "left": 1812,
+            "top": 2260,
+            "width": 68,
+            "height": 22
+          },
+          "average_ocr_confidence": 93.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "300 枚 ・150 組 )",
+          "box": {
+            "left": 1407,
+            "top": 2264,
+            "width": 117,
+            "height": 26
+          },
+          "average_ocr_confidence": 64.3,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ヨイ ス @ ム ー ン ライ ト .",
+          "box": {
+            "left": 850,
+            "top": 2268,
+            "width": 137,
+            "height": 28
+          },
+          "average_ocr_confidence": 84.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "山 米 菓",
+          "box": {
+            "left": 499,
+            "top": 2278,
+            "width": 56,
+            "height": 31
+          },
+          "average_ocr_confidence": 69.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ブラ",
+          "box": {
+            "left": 836,
+            "top": 2289,
+            "width": 27,
+            "height": 14
+          },
+          "average_ocr_confidence": 30.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "昔 /(14 投 入 )",
+          "box": {
+            "left": 824,
+            "top": 2297,
+            "width": 71,
+            "height": 28
+          },
+          "average_ocr_confidence": 62.3,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ao5n",
+          "box": {
+            "left": 481,
+            "top": 2301,
+            "width": 101,
+            "height": 25
+          },
+          "average_ocr_confidence": 4.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "See は",
+          "box": {
+            "left": 127,
+            "top": 2312,
+            "width": 163,
+            "height": 47
+          },
+          "average_ocr_confidence": 9.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ゅ チョ コチ ッ プ クッ キー",
+          "box": {
+            "left": 824,
+            "top": 2314,
+            "width": 150,
+            "height": 27
+          },
+          "average_ocr_confidence": 91.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "醤油 (0g)",
+          "box": {
+            "left": 481,
+            "top": 2330,
+            "width": 102,
+            "height": 20
+          },
+          "average_ocr_confidence": 45.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ァ",
+          "box": {
+            "left": 1740,
+            "top": 2330,
+            "width": 7,
+            "height": 9
+          },
+          "average_ocr_confidence": 40.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ゅ ホワ イト チョ",
+          "box": {
+            "left": 824,
+            "top": 2334,
+            "width": 92,
+            "height": 14
+          },
+          "average_ocr_confidence": 76.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Sendra aon",
+          "box": {
+            "left": 1342,
+            "top": 2339,
+            "width": 186,
+            "height": 56
+          },
+          "average_ocr_confidence": 35.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(7 sce)",
+          "box": {
+            "left": 1742,
+            "top": 2339,
+            "width": 160,
+            "height": 53
+          },
+          "average_ocr_confidence": 17.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "5;",
+          "box": {
+            "left": 394,
+            "top": 2347,
+            "width": 21,
+            "height": 47
+          },
+          "average_ocr_confidence": 12.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "円",
+          "box": {
+            "left": 764,
+            "top": 2347,
+            "width": 17,
+            "height": 11
+          },
+          "average_ocr_confidence": 62.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(g2%170.647)",
+          "box": {
+            "left": 978,
+            "top": 2352,
+            "width": 179,
+            "height": 42
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ieee) (税込 名 105.84",
+          "box": {
+            "left": 127,
+            "top": 2355,
+            "width": 262,
+            "height": 48
+          },
+          "average_ocr_confidence": 58.8,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "oS 6s) (#A%138.24F)",
+          "box": {
+            "left": 481,
+            "top": 2355,
+            "width": 304,
+            "height": 39
+          },
+          "average_ocr_confidence": 7.1,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ゃ アー モン ドク ッ キー",
+          "box": {
+            "left": 824,
+            "top": 2356,
+            "width": 140,
+            "height": 26
+          },
+          "average_ocr_confidence": 91.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "8/2RA)",
+          "box": {
+            "left": 824,
+            "top": 2384,
+            "width": 67,
+            "height": 10
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "iy 写真 は イメ ー ジ で の",
+          "box": {
+            "left": 1344,
+            "top": 2422,
+            "width": 329,
+            "height": 31
+          },
+          "average_ocr_confidence": 70.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "= ===)",
+          "box": {
+            "left": 252,
+            "top": 2424,
+            "width": 164,
+            "height": 29
+          },
+          "average_ocr_confidence": 40.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "BRAVE",
+          "box": {
+            "left": 820,
+            "top": 2428,
+            "width": 93,
+            "height": 9
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Foe,",
+          "box": {
+            "left": 1241,
+            "top": 2435,
+            "width": 32,
+            "height": 12
+          },
+          "average_ocr_confidence": 20.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "aes",
+          "box": {
+            "left": 1239,
+            "top": 2450,
+            "width": 29,
+            "height": 2
+          },
+          "average_ocr_confidence": 40.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ke",
+          "box": {
+            "left": 89,
+            "top": 2452,
+            "width": 97,
+            "height": 90
+          },
+          "average_ocr_confidence": 36.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "aK,",
+          "box": {
+            "left": 191,
+            "top": 2464,
+            "width": 81,
+            "height": 46
+          },
+          "average_ocr_confidence": 48.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "|",
+          "box": {
+            "left": 1524,
+            "top": 2472,
+            "width": 1,
+            "height": 24
+          },
+          "average_ocr_confidence": 96.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "3s 新 秋 イ oy",
+          "box": {
+            "left": 1290,
+            "top": 2474,
+            "width": 204,
+            "height": 70
+          },
+          "average_ocr_confidence": 16.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "~",
+          "box": {
+            "left": 915,
+            "top": 2480,
+            "width": 79,
+            "height": 61
+          },
+          "average_ocr_confidence": 1.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "5",
+          "box": {
+            "left": 1829,
+            "top": 2494,
+            "width": 44,
+            "height": 18
+          },
+          "average_ocr_confidence": 60.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ae",
+          "box": {
+            "left": 645,
+            "top": 2497,
+            "width": 107,
+            "height": 55
+          },
+          "average_ocr_confidence": 36.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "件 内",
+          "box": {
+            "left": 1747,
+            "top": 2504,
+            "width": 58,
+            "height": 52
+          },
+          "average_ocr_confidence": 57.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ie",
+          "box": {
+            "left": 1524,
+            "top": 2508,
+            "width": 90,
+            "height": 77
+          },
+          "average_ocr_confidence": 53.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ックス",
+          "box": {
+            "left": 1834,
+            "top": 2509,
+            "width": 72,
+            "height": 25
+          },
+          "average_ocr_confidence": 96.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "b",
+          "box": {
+            "left": 1809,
+            "top": 2510,
+            "width": 22,
+            "height": 53
+          },
+          "average_ocr_confidence": 37.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "中 国産",
+          "box": {
+            "left": 324,
+            "top": 2525,
+            "width": 51,
+            "height": 16
+          },
+          "average_ocr_confidence": 73.5,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": ".",
+          "box": {
+            "left": 484,
+            "top": 2537,
+            "width": 53,
+            "height": 63
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ss",
+          "box": {
+            "left": 989,
+            "top": 2539,
+            "width": 8,
+            "height": 7
+          },
+          "average_ocr_confidence": 19.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "GER",
+          "box": {
+            "left": 324,
+            "top": 2547,
+            "width": 86,
+            "height": 28
+          },
+          "average_ocr_confidence": 93.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "ーー スト ラリ ア 産",
+          "box": {
+            "left": 1763,
+            "top": 2564,
+            "width": 97,
+            "height": 26
+          },
+          "average_ocr_confidence": 85.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "as",
+          "box": {
+            "left": 1195,
+            "top": 2571,
+            "width": 50,
+            "height": 21
+          },
+          "average_ocr_confidence": 31.2,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(300g)",
+          "box": {
+            "left": 326,
+            "top": 2578,
+            "width": 72,
+            "height": 20
+          },
+          "average_ocr_confidence": 91.7,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "a",
+          "box": {
+            "left": 266,
+            "top": 2580,
+            "width": 9,
+            "height": 12
+          },
+          "average_ocr_confidence": 80.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "SEE EET",
+          "box": {
+            "left": 1768,
+            "top": 2583,
+            "width": 113,
+            "height": 23
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "a",
+          "box": {
+            "left": 1351,
+            "top": 2590,
+            "width": 9,
+            "height": 10
+          },
+          "average_ocr_confidence": 54.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Saeko”",
+          "box": {
+            "left": 821,
+            "top": 2595,
+            "width": 160,
+            "height": 57
+          },
+          "average_ocr_confidence": 8.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "f",
+          "box": {
+            "left": 1773,
+            "top": 2600,
+            "width": 2,
+            "height": 2
+          },
+          "average_ocr_confidence": 28.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "thie We",
+          "box": {
+            "left": 452,
+            "top": 2602,
+            "width": 104,
+            "height": 32
+          },
+          "average_ocr_confidence": 32.4,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "eer",
+          "box": {
+            "left": 1195,
+            "top": 2611,
+            "width": 113,
+            "height": 45
+          },
+          "average_ocr_confidence": 30.1,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "er",
+          "box": {
+            "left": 617,
+            "top": 2648,
+            "width": 166,
+            "height": 57
+          },
+          "average_ocr_confidence": 45.3,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "えび フラ イ",
+          "box": {
+            "left": 822,
+            "top": 2650,
+            "width": 99,
+            "height": 21
+          },
+          "average_ocr_confidence": 88.7,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "Sa 3537 24m)",
+          "box": {
+            "left": 107,
+            "top": 2653,
+            "width": 311,
+            "height": 63
+          },
+          "average_ocr_confidence": 16.1,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(ea 753.846",
+          "box": {
+            "left": 989,
+            "top": 2654,
+            "width": 159,
+            "height": 62
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+          "box": {
+            "left": 1197,
+            "top": 2656,
+            "width": 325,
+            "height": 61
+          },
+          "average_ocr_confidence": 69.2,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "($4278.647)",
+          "box": {
+            "left": 1733,
+            "top": 2656,
+            "width": 169,
+            "height": 60
+          },
+          "average_ocr_confidence": 0.0,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "¢",
+          "box": {
+            "left": 967,
+            "top": 2661,
+            "width": 4,
+            "height": 7
+          },
+          "average_ocr_confidence": 68.8,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "]",
+          "box": {
+            "left": 1151,
+            "top": 2663,
+            "width": 1,
+            "height": 8
+          },
+          "average_ocr_confidence": 63.0,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "お で",
+          "box": {
+            "left": 452,
+            "top": 2665,
+            "width": 47,
+            "height": 22
+          },
+          "average_ocr_confidence": 68.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "|",
+          "box": {
+            "left": 1147,
+            "top": 2672,
+            "width": 6,
+            "height": 7
+          },
+          "average_ocr_confidence": 43.9,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": "(7 種 15 品 )",
+          "box": {
+            "left": 452,
+            "top": 2685,
+            "width": 83,
+            "height": 29
+          },
+          "average_ocr_confidence": 91.4,
+          "has_number": true,
+          "verification": "unverified_ocr_text"
+        },
+        {
+          "text": ")",
+          "box": {
+            "left": 1150,
+            "top": 2685,
+            "width": 5,
+            "height": 21
+          },
+          "average_ocr_confidence": 92.6,
+          "has_number": false,
+          "verification": "unverified_ocr_text"
+        }
+      ],
+      "number_line_count": 24
     },
     {
       "shop": "スーパーマツモト 桂川店",

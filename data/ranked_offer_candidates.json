@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-11T09:46:50+09:00",
+  "generated_at_jst": "2026-11-12T09:57:50+09:00",
   "stage": "PRICE_CUE_CATEGORY_REVIEW_ONLY",
   "explanation": "Heuristic candidates only; nearby text may be unrelated; tax label applies only to its own OCR line.",
   "verified_products": 0,
@@ -8,10 +8,1162 @@
     {
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
-      "ocr_status": "error",
-      "candidate_count": 0,
-      "high_review_count": 0,
-      "candidates": []
+      "ocr_status": "ocr_generated_unverified",
+      "candidate_count": 44,
+      "high_review_count": 1,
+      "candidates": [
+        {
+          "raw_number_line": "ieee) (税込 名 105.84",
+          "number_tokens": [
+            "105",
+            "84"
+          ],
+          "currency_on_same_line": true,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "税込",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "パン・麺・米",
+              "matched_term": "米"
+            },
+            {
+              "category": "調味料・加工食品",
+              "matched_term": "醤油"
+            }
+          ],
+          "nearest_category_text": "醤油 (0g)",
+          "distance_to_category_text": 92.1,
+          "box": {
+            "left": 127,
+            "top": 2355,
+            "width": 262,
+            "height": 48
+          },
+          "ocr_confidence": 58.8,
+          "score": 95,
+          "priority": "high_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(税込 32 1.84 円 )",
+          "number_tokens": [
+            "32",
+            "1",
+            "84"
+          ],
+          "currency_on_same_line": true,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "税込",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 247,
+            "top": 2027,
+            "width": 169,
+            "height": 35
+          },
+          "ocr_confidence": 88.4,
+          "score": 70,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "税込 95.04 円 )",
+          "number_tokens": [
+            "95"
+          ],
+          "currency_on_same_line": true,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "税込",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 648,
+            "top": 2027,
+            "width": 139,
+            "height": 35
+          },
+          "ocr_confidence": 91.5,
+          "score": 70,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "3b",
+          "number_tokens": [
+            "3"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "パン・麺・米",
+              "matched_term": "米"
+            },
+            {
+              "category": "調味料・加工食品",
+              "matched_term": "醤油"
+            }
+          ],
+          "nearest_category_text": "山 米 菓",
+          "distance_to_category_text": 92.0,
+          "box": {
+            "left": 511,
+            "top": 2124,
+            "width": 71,
+            "height": 62
+          },
+          "ocr_confidence": 33.7,
+          "score": 46,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "ao5n",
+          "number_tokens": [
+            "5"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "パン・麺・米",
+              "matched_term": "米"
+            },
+            {
+              "category": "調味料・加工食品",
+              "matched_term": "醤油"
+            }
+          ],
+          "nearest_category_text": "山 米 菓",
+          "distance_to_category_text": 0.0,
+          "box": {
+            "left": 481,
+            "top": 2301,
+            "width": 101,
+            "height": 25
+          },
+          "ocr_confidence": 4.7,
+          "score": 46,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "5;",
+          "number_tokens": [
+            "5"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "パン・麺・米",
+              "matched_term": "米"
+            },
+            {
+              "category": "調味料・加工食品",
+              "matched_term": "醤油"
+            }
+          ],
+          "nearest_category_text": "醤油 (0g)",
+          "distance_to_category_text": 66.0,
+          "box": {
+            "left": 394,
+            "top": 2347,
+            "width": 21,
+            "height": 47
+          },
+          "ocr_confidence": 12.3,
+          "score": 46,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "oS 6s) (#A%138.24F)",
+          "number_tokens": [
+            "6",
+            "138",
+            "24"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "パン・麺・米",
+              "matched_term": "米"
+            },
+            {
+              "category": "調味料・加工食品",
+              "matched_term": "醤油"
+            }
+          ],
+          "nearest_category_text": "醤油 (0g)",
+          "distance_to_category_text": 5.0,
+          "box": {
+            "left": 481,
+            "top": 2355,
+            "width": 304,
+            "height": 39
+          },
+          "ocr_confidence": 7.1,
+          "score": 46,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "4",
+          "number_tokens": [
+            "4"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "飲料",
+              "matched_term": "茶"
+            }
+          ],
+          "nearest_category_text": "@ 十 六 茶",
+          "distance_to_category_text": 87.7,
+          "box": {
+            "left": 231,
+            "top": 736,
+            "width": 45,
+            "height": 97
+          },
+          "ocr_confidence": 84.1,
+          "score": 40,
+          "priority": "review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "1 o —",
+          "number_tokens": [
+            "1"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "飲料",
+              "matched_term": "茶"
+            }
+          ],
+          "nearest_category_text": "@ 十 六 茶",
+          "distance_to_category_text": 40.0,
+          "box": {
+            "left": 122,
+            "top": 841,
+            "width": 89,
+            "height": 34
+          },
+          "ocr_confidence": 24.6,
+          "score": 30,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "音 /(66Om2) =",
+          "number_tokens": [
+            "66",
+            "2"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "飲料",
+              "matched_term": "茶"
+            }
+          ],
+          "nearest_category_text": "@ 十 六 散 麦 茶",
+          "distance_to_category_text": 1.0,
+          "box": {
+            "left": 84,
+            "top": 1021,
+            "width": 147,
+            "height": 23
+          },
+          "ocr_confidence": 33.2,
+          "score": 30,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(ea 753.846",
+          "number_tokens": [
+            "753",
+            "846"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [
+            {
+              "category": "鮮魚",
+              "matched_term": "えび"
+            }
+          ],
+          "nearest_category_text": "えび フラ イ",
+          "distance_to_category_text": 68.0,
+          "box": {
+            "left": 989,
+            "top": 2654,
+            "width": 159,
+            "height": 62
+          },
+          "ocr_confidence": 0.0,
+          "score": 30,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "150gX",
+          "number_tokens": [
+            "150"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 535,
+            "top": 2004,
+            "width": 69,
+            "height": 19
+          },
+          "ocr_confidence": 88.1,
+          "score": 26,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(180g)",
+          "number_tokens": [
+            "180"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 822,
+            "top": 2013,
+            "width": 83,
+            "height": 22
+          },
+          "ocr_confidence": 91.0,
+          "score": 26,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "京 小町 絹 3、",
+          "number_tokens": [
+            "3"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 513,
+            "top": 1943,
+            "width": 154,
+            "height": 54
+          },
+          "ocr_confidence": 65.0,
+          "score": 21,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "昔 /(14 投 入 )",
+          "number_tokens": [
+            "14"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 824,
+            "top": 2297,
+            "width": 71,
+            "height": 28
+          },
+          "ocr_confidence": 62.3,
+          "score": 21,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "1 あっ さり",
+          "number_tokens": [
+            "1"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1029,
+            "top": 568,
+            "width": 72,
+            "height": 20
+          },
+          "ocr_confidence": 86.2,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "42",
+          "number_tokens": [
+            "42"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 124,
+            "top": 620,
+            "width": 19,
+            "height": 8
+          },
+          "ocr_confidence": 72.2,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "4",
+          "number_tokens": [
+            "4"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 250,
+            "top": 701,
+            "width": 17,
+            "height": 20
+          },
+          "ocr_confidence": 73.8,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "99",
+          "number_tokens": [
+            "99"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1653,
+            "top": 923,
+            "width": 218,
+            "height": 170
+          },
+          "ocr_confidence": 92.2,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "7",
+          "number_tokens": [
+            "7"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1266,
+            "top": 1240,
+            "width": 25,
+            "height": 26
+          },
+          "ocr_confidence": 70.6,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "3 種 の ナッ ツ",
+          "number_tokens": [
+            "3"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1576,
+            "top": 1980,
+            "width": 89,
+            "height": 36
+          },
+          "ocr_confidence": 90.6,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "#/(200me)",
+          "number_tokens": [
+            "200"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1560,
+            "top": 2024,
+            "width": 92,
+            "height": 16
+          },
+          "ocr_confidence": 72.9,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(300g)",
+          "number_tokens": [
+            "300"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 326,
+            "top": 2578,
+            "width": 72,
+            "height": 20
+          },
+          "ocr_confidence": 91.7,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(7 種 15 品 )",
+          "number_tokens": [
+            "7",
+            "15"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 452,
+            "top": 2685,
+            "width": 83,
+            "height": 29
+          },
+          "ocr_confidence": 91.4,
+          "score": 10,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "mee | 16’ 31s |",
+          "number_tokens": [
+            "16",
+            "31"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1362,
+            "top": 27,
+            "width": 591,
+            "height": 147
+          },
+          "ocr_confidence": 50.1,
+          "score": 5,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "1 |",
+          "number_tokens": [
+            "1"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1551,
+            "top": 844,
+            "width": 14,
+            "height": 30
+          },
+          "ocr_confidence": 49.5,
+          "score": 5,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "て 1 06.92%)",
+          "number_tokens": [
+            "1",
+            "92"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1706,
+            "top": 1995,
+            "width": 197,
+            "height": 66
+          },
+          "ocr_confidence": 47.4,
+          "score": 5,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "300 枚 ・150 組 )",
+          "number_tokens": [
+            "300",
+            "150"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1407,
+            "top": 2264,
+            "width": 117,
+            "height": 26
+          },
+          "ocr_confidence": 64.3,
+          "score": 5,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "5",
+          "number_tokens": [
+            "5"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1829,
+            "top": 2494,
+            "width": 44,
+            "height": 18
+          },
+          "ocr_confidence": 60.9,
+          "score": 5,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+          "number_tokens": [
+            "7",
+            "4",
+            "5",
+            "300",
+            "24"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1197,
+            "top": 2656,
+            "width": 325,
+            "height": 61
+          },
+          "ocr_confidence": 69.2,
+          "score": 5,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "o7",
+          "number_tokens": [
+            "7"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 166,
+            "top": 38,
+            "width": 94,
+            "height": 98
+          },
+          "ocr_confidence": 0.0,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "4",
+          "number_tokens": [
+            "4"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 170,
+            "top": 90,
+            "width": 28,
+            "height": 57
+          },
+          "ocr_confidence": 36.2,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "7.",
+          "number_tokens": [
+            "7"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 93,
+            "top": 679,
+            "width": 45,
+            "height": 52
+          },
+          "ocr_confidence": 37.1,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "m4",
+          "number_tokens": [
+            "4"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1096,
+            "top": 692,
+            "width": 33,
+            "height": 21
+          },
+          "ocr_confidence": 34.5,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "4",
+          "number_tokens": [
+            "4"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 215,
+            "top": 1332,
+            "width": 36,
+            "height": 35
+          },
+          "ocr_confidence": 0.0,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t138",
+          "number_tokens": [
+            "2",
+            "1",
+            "137",
+            "213",
+            "1380",
+            "56",
+            "47",
+            "1"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1764,
+            "top": 1345,
+            "width": 39,
+            "height": 56
+          },
+          "ocr_confidence": 13.1,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(2 203.047)",
+          "number_tokens": [
+            "2",
+            "203"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1344,
+            "top": 2001,
+            "width": 181,
+            "height": 60
+          },
+          "ocr_confidence": 0.0,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(86 181.44F)",
+          "number_tokens": [
+            "86",
+            "181",
+            "44"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 995,
+            "top": 2016,
+            "width": 161,
+            "height": 35
+          },
+          "ocr_confidence": 33.3,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(7 sce)",
+          "number_tokens": [
+            "7"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1742,
+            "top": 2339,
+            "width": 160,
+            "height": 53
+          },
+          "ocr_confidence": 17.1,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "(g2%170.647)",
+          "number_tokens": [
+            "2",
+            "170",
+            "647"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 978,
+            "top": 2352,
+            "width": 179,
+            "height": 42
+          },
+          "ocr_confidence": 0.0,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "8/2RA)",
+          "number_tokens": [
+            "8",
+            "2"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": true,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": true,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 824,
+            "top": 2384,
+            "width": 67,
+            "height": 10
+          },
+          "ocr_confidence": 0.0,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "3s 新 秋 イ oy",
+          "number_tokens": [
+            "3"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1290,
+            "top": 2474,
+            "width": 204,
+            "height": 70
+          },
+          "ocr_confidence": 16.8,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "Sa 3537 24m)",
+          "number_tokens": [
+            "3537",
+            "24"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 107,
+            "top": 2653,
+            "width": 311,
+            "height": 63
+          },
+          "ocr_confidence": 16.1,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        },
+        {
+          "raw_number_line": "($4278.647)",
+          "number_tokens": [
+            "4278",
+            "647"
+          ],
+          "currency_on_same_line": false,
+          "currency_nearby": false,
+          "tax_label_on_same_line": "不明",
+          "date_or_quantity_risk": false,
+          "categories_suggested": [],
+          "nearest_category_text": null,
+          "distance_to_category_text": null,
+          "box": {
+            "left": 1733,
+            "top": 2656,
+            "width": 169,
+            "height": 60
+          },
+          "ocr_confidence": 0.0,
+          "score": 0,
+          "priority": "low_review",
+          "status": "unverified",
+          "publish_allowed": false
+        }
+      ]
     },
     {
       "shop": "スーパーマツモト 桂川店",
