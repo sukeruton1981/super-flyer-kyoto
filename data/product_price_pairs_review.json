@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-17T15:57:37+09:00",
+  "generated_at_jst": "2026-11-18T15:19:39+09:00",
   "stage": "OCR_PRODUCT_PRICE_PAIR_SUGGESTIONS_UNVERIFIED",
   "verified_products": 0,
   "published_offers": 0,
@@ -102,17 +102,6 @@
               "ocr_confidence": 38.4
             },
             {
-              "text_unverified": "poe |",
-              "box": {
-                "left": 1460,
-                "top": 870,
-                "width": 98,
-                "height": 58
-              },
-              "distance_score": 287.4,
-              "ocr_confidence": 60.5
-            },
-            {
               "text_unverified": "(し ょ こら ・ ク ラウ ン メ ロン 〉",
               "box": {
                 "left": 1346,
@@ -122,13 +111,24 @@
               },
               "distance_score": 296.6,
               "ocr_confidence": 87.8
+            },
+            {
+              "text_unverified": "@ 生 めろん ば ん",
+              "box": {
+                "left": 1328,
+                "top": 985,
+                "width": 166,
+                "height": 37
+              },
+              "distance_score": 351.0,
+              "ocr_confidence": 81.5
             }
           ],
           "verified": false,
           "publish_allowed": false
         },
         {
-          "price_text_unverified": "音 /(66Om2) =",
+          "price_text_unverified": "音 /(66Om5) =",
           "price_numbers_unverified": [
             "66"
           ],
@@ -138,7 +138,7 @@
             "width": 147,
             "height": 23
           },
-          "price_ocr_confidence": 33.2,
+          "price_ocr_confidence": 31.8,
           "nearby_text_candidates": [
             {
               "text_unverified": "@ 十 六 散 麦 茶",
@@ -178,14 +178,14 @@
           "publish_allowed": false
         },
         {
-          "price_text_unverified": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t14",
+          "price_text_unverified": "2\t1\t132\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t132\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t132\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t132\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t133\t0\t0\t0\t986\t14",
           "price_numbers_unverified": [
-            "137",
+            "132",
             "213",
             "1380",
             "56",
             "47",
-            "137",
+            "132",
             "213",
             "1380"
           ],
@@ -703,28 +703,6 @@
           "price_ocr_confidence": 58.8,
           "nearby_text_candidates": [
             {
-              "text_unverified": "See は",
-              "box": {
-                "left": 127,
-                "top": 2312,
-                "width": 163,
-                "height": 47
-              },
-              "distance_score": 73.5,
-              "ocr_confidence": 9.4
-            },
-            {
-              "text_unverified": "| ee",
-              "box": {
-                "left": 76,
-                "top": 2260,
-                "width": 149,
-                "height": 69
-              },
-              "distance_score": 150.7,
-              "ocr_confidence": 44.3
-            },
-            {
               "text_unverified": "aK,",
               "box": {
                 "left": 191,
@@ -734,6 +712,28 @@
               },
               "distance_score": 197.6,
               "ocr_confidence": 48.7
+            },
+            {
+              "text_unverified": "じゃ フ",
+              "box": {
+                "left": 112,
+                "top": 2235,
+                "width": 25,
+                "height": 13
+              },
+              "distance_score": 217.6,
+              "ocr_confidence": 68.7
+            },
+            {
+              "text_unverified": "中 国産",
+              "box": {
+                "left": 324,
+                "top": 2525,
+                "width": 51,
+                "height": 16
+              },
+              "distance_score": 273.1,
+              "ocr_confidence": 73.5
             }
           ],
           "verified": false,
@@ -979,15 +979,15 @@
               "ocr_confidence": 85.0
             },
             {
-              "text_unverified": "件 内",
+              "text_unverified": "ックス",
               "box": {
-                "left": 1747,
-                "top": 2504,
-                "width": 58,
-                "height": 52
+                "left": 1834,
+                "top": 2509,
+                "width": 72,
+                "height": 25
               },
-              "distance_score": 199.4,
-              "ocr_confidence": 57.9
+              "distance_score": 212.2,
+              "ocr_confidence": 96.9
             }
           ],
           "verified": false,
@@ -1150,7 +1150,7 @@
                 "height": 44
               },
               "distance_score": 271.7,
-              "ocr_confidence": 54.7
+              "ocr_confidence": 46.8
             }
           ],
           "verified": false,
@@ -2329,7 +2329,7 @@
                 "height": 32
               },
               "distance_score": 127.2,
-              "ocr_confidence": 77.2
+              "ocr_confidence": 77.0
             },
             {
               "text_unverified": "Ae Onl eee",
@@ -3310,7 +3310,7 @@
             "width": 56,
             "height": 45
           },
-          "price_ocr_confidence": 93.5,
+          "price_ocr_confidence": 93.1,
           "nearby_text_candidates": [
             {
               "text_unverified": "MROAI",

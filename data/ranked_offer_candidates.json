@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-17T15:57:37+09:00",
+  "generated_at_jst": "2026-11-18T15:19:39+09:00",
   "stage": "PRICE_CUE_CATEGORY_REVIEW_ONLY",
   "explanation": "Heuristic candidates only; nearby text may be unrelated; tax label applies only to its own OCR line.",
   "verified_products": 0,
@@ -9,7 +9,7 @@
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
       "ocr_status": "ocr_generated_unverified",
-      "candidate_count": 44,
+      "candidate_count": 43,
       "high_review_count": 1,
       "candidates": [
         {
@@ -124,39 +124,6 @@
             "height": 62
           },
           "ocr_confidence": 33.7,
-          "score": 46,
-          "priority": "review",
-          "status": "unverified",
-          "publish_allowed": false
-        },
-        {
-          "raw_number_line": "ao5n",
-          "number_tokens": [
-            "5"
-          ],
-          "currency_on_same_line": false,
-          "currency_nearby": true,
-          "tax_label_on_same_line": "不明",
-          "date_or_quantity_risk": false,
-          "categories_suggested": [
-            {
-              "category": "パン・麺・米",
-              "matched_term": "米"
-            },
-            {
-              "category": "調味料・加工食品",
-              "matched_term": "醤油"
-            }
-          ],
-          "nearest_category_text": "山 米 菓",
-          "distance_to_category_text": 0.0,
-          "box": {
-            "left": 481,
-            "top": 2301,
-            "width": 101,
-            "height": 25
-          },
-          "ocr_confidence": 4.7,
           "score": 46,
           "priority": "review",
           "status": "unverified",
@@ -289,10 +256,10 @@
           "publish_allowed": false
         },
         {
-          "raw_number_line": "音 /(66Om2) =",
+          "raw_number_line": "音 /(66Om5) =",
           "number_tokens": [
             "66",
-            "2"
+            "5"
           ],
           "currency_on_same_line": false,
           "currency_nearby": false,
@@ -312,7 +279,7 @@
             "width": 147,
             "height": 23
           },
-          "ocr_confidence": 33.2,
+          "ocr_confidence": 31.8,
           "score": 30,
           "priority": "low_review",
           "status": "unverified",
@@ -933,11 +900,11 @@
           "publish_allowed": false
         },
         {
-          "raw_number_line": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t138",
+          "raw_number_line": "2\t1\t132\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t132\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t132\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t132\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t133\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t133",
           "number_tokens": [
             "2",
             "1",
-            "137",
+            "132",
             "213",
             "1380",
             "56",
@@ -2738,7 +2705,7 @@
             "width": 56,
             "height": 45
           },
-          "ocr_confidence": 93.5,
+          "ocr_confidence": 93.1,
           "score": 10,
           "priority": "low_review",
           "status": "unverified",
@@ -2882,7 +2849,7 @@
             "width": 129,
             "height": 44
           },
-          "ocr_confidence": 54.7,
+          "ocr_confidence": 46.8,
           "score": 5,
           "priority": "low_review",
           "status": "unverified",

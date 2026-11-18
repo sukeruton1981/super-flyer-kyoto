@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-17T15:57:37+09:00",
+  "generated_at_jst": "2026-11-18T15:19:39+09:00",
   "stage": "RULE_FILTERED_PRICE_REVIEW_ONLY",
   "verified_products": 0,
   "published_offers": 0,
@@ -9,8 +9,8 @@
       "shop": "スーパーマツモト 桂川店",
       "source_url": "https://chirashi-guide.com/chirashi-file/2026/10/651/651-9718680_1005285_0.jpg",
       "source_status": "ocr_generated_unverified",
-      "candidate_count": 38,
-      "with_name_count": 36,
+      "candidate_count": 37,
+      "with_name_count": 34,
       "candidates": [
         {
           "raw_text": "mee | 16’ 31s |",
@@ -282,10 +282,10 @@
           "publish_allowed": false
         },
         {
-          "raw_text": "音 /(66Om2) =",
+          "raw_text": "音 /(66Om5) =",
           "number_candidates": [
             66,
-            2
+            5
           ],
           "currency_cue": false,
           "nearby_name_candidates": [
@@ -296,16 +296,16 @@
               "review_score": 71
             },
             {
-              "text_unverified": "スフレ ンド",
-              "category_hint": null,
-              "distance_px": 5.0,
-              "review_score": 70
-            },
-            {
               "text_unverified": "@ ぎ ぎゅ っ と 濃い 十 六花",
               "category_hint": null,
               "distance_px": 22.0,
               "review_score": 69
+            },
+            {
+              "text_unverified": "@ 十 六 茶",
+              "category_hint": null,
+              "distance_px": 56.0,
+              "review_score": 64
             }
           ],
           "status": "unverified",
@@ -346,23 +346,16 @@
             4
           ],
           "currency_cue": false,
-          "nearby_name_candidates": [
-            {
-              "text_unverified": "スフレ ンド",
-              "category_hint": null,
-              "distance_px": 169.0,
-              "review_score": 43
-            }
-          ],
+          "nearby_name_candidates": [],
           "status": "unverified",
           "publish_allowed": false
         },
         {
-          "raw_text": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t14",
+          "raw_text": "2\t1\t132\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t132\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t132\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t132\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t133\t0\t0\t0\t986\t14",
           "number_candidates": [
             2,
             1,
-            137,
+            132,
             213,
             1380,
             56
@@ -671,35 +664,6 @@
           "publish_allowed": false
         },
         {
-          "raw_text": "ao5n",
-          "number_candidates": [
-            5
-          ],
-          "currency_cue": false,
-          "nearby_name_candidates": [
-            {
-              "text_unverified": "醤油 (0g)",
-              "category_hint": "加工食品",
-              "distance_px": 4.0,
-              "review_score": 87
-            },
-            {
-              "text_unverified": "山 米 菓",
-              "category_hint": null,
-              "distance_px": 0.0,
-              "review_score": 72
-            },
-            {
-              "text_unverified": "マテ",
-              "category_hint": null,
-              "distance_px": 67.0,
-              "review_score": 61
-            }
-          ],
-          "status": "unverified",
-          "publish_allowed": false
-        },
-        {
           "raw_text": "(7 sce)",
           "number_candidates": [
             7
@@ -742,16 +706,16 @@
               "review_score": 76
             },
             {
+              "text_unverified": "潜 あ られ",
+              "category_hint": null,
+              "distance_px": 66.9,
+              "review_score": 59
+            },
+            {
               "text_unverified": "山 米 菓",
               "category_hint": null,
               "distance_px": 92.2,
               "review_score": 57
-            },
-            {
-              "text_unverified": "マテ",
-              "category_hint": null,
-              "distance_px": 131.9,
-              "review_score": 50
             }
           ],
           "status": "unverified",
@@ -772,10 +736,10 @@
               "review_score": 72
             },
             {
-              "text_unverified": "See は",
+              "text_unverified": "潜 あ られ",
               "category_hint": null,
-              "distance_px": 0.0,
-              "review_score": 66
+              "distance_px": 93.9,
+              "review_score": 54
             },
             {
               "text_unverified": "じゃ フ",
@@ -809,9 +773,9 @@
               "review_score": 68
             },
             {
-              "text_unverified": "ゅ チョ コチ ッ プ クッ キー",
+              "text_unverified": "潜 あ られ",
               "category_hint": null,
-              "distance_px": 41.4,
+              "distance_px": 19.0,
               "review_score": 67
             }
           ],
@@ -861,16 +825,16 @@
               "review_score": 75
             },
             {
-              "text_unverified": "件 内",
-              "category_hint": null,
-              "distance_px": 24.0,
-              "review_score": 67
-            },
-            {
               "text_unverified": "ーー スト ラリ ア 産",
               "category_hint": null,
               "distance_px": 52.0,
               "review_score": 65
+            },
+            {
+              "text_unverified": "iy 写真 は イメ ー ジ で の",
+              "category_hint": null,
+              "distance_px": 161.3,
+              "review_score": 45
             }
           ],
           "status": "unverified",
@@ -977,16 +941,16 @@
               "review_score": 62
             },
             {
-              "text_unverified": "件 内",
-              "category_hint": null,
-              "distance_px": 100.0,
-              "review_score": 54
-            },
-            {
               "text_unverified": "ックス",
               "category_hint": null,
               "distance_px": 122.0,
               "review_score": 54
+            },
+            {
+              "text_unverified": "(G7gx4 バ ッ ク ) (#5a300.24m)",
+              "category_hint": null,
+              "distance_px": 211.0,
+              "review_score": 37
             }
           ],
           "status": "unverified",
@@ -2434,7 +2398,7 @@
               "text_unverified": "ピ と *",
               "category_hint": null,
               "distance_px": 67.2,
-              "review_score": 62
+              "review_score": 61
             }
           ],
           "status": "unverified",

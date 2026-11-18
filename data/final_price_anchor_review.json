@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-17T15:57:37+09:00",
+  "generated_at_jst": "2026-11-18T15:19:39+09:00",
   "stage": "FINAL_PRICE_ANCHOR_AB_TEST_UNVERIFIED",
   "verified_products": 0,
   "published_offers": 0,
@@ -137,18 +137,6 @@
           },
           "nearby_name_candidates": [
             {
-              "text_unverified": "See は",
-              "category_suggested": null,
-              "distance": 73.5,
-              "score": 86,
-              "box": {
-                "left": 127,
-                "top": 2312,
-                "width": 163,
-                "height": 47
-              }
-            },
-            {
               "text_unverified": "じゃ フ",
               "category_suggested": null,
               "distance": 217.6,
@@ -170,6 +158,18 @@
                 "top": 2330,
                 "width": 102,
                 "height": 20
+              }
+            },
+            {
+              "text_unverified": "中 国産",
+              "category_suggested": null,
+              "distance": 243.1,
+              "score": 59,
+              "box": {
+                "left": 324,
+                "top": 2525,
+                "width": 51,
+                "height": 16
               }
             }
           ],

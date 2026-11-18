@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-17T15:57:37+09:00",
+  "generated_at_jst": "2026-11-18T15:19:39+09:00",
   "stage": "ONE_OFF_RELAXED_PRICE_CUES_REVIEW_ONLY",
   "verified_products": 0,
   "published_offers": 0,
@@ -73,10 +73,10 @@
           "publish_allowed": false
         },
         {
-          "number_line": "音 /(66Om2) =",
+          "number_line": "音 /(66Om5) =",
           "number_tokens": [
             "66",
-            "2"
+            "5"
           ],
           "has_currency_marker": false,
           "name_candidates": [
@@ -108,11 +108,11 @@
           "publish_allowed": false
         },
         {
-          "number_line": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t14",
+          "number_line": "2\t1\t132\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t132\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t132\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t132\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t133\t0\t0\t0\t986\t14",
           "number_tokens": [
             "2",
             "1",
-            "137",
+            "132",
             "213",
             "1380",
             "56",

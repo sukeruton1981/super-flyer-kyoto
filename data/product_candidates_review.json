@@ -1,5 +1,5 @@
 {
-  "generated_at_jst": "2026-11-17T15:57:37+09:00",
+  "generated_at_jst": "2026-11-18T15:19:39+09:00",
   "stage": "SPATIAL_CANDIDATES_UNVERIFIED",
   "verified_products": 0,
   "published_offers": 0,
@@ -65,14 +65,14 @@
               "confidence": 92.2
             },
             {
-              "text": "2\t1\t137\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t137\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t137\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t137\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t138\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t138",
+              "text": "2\t1\t132\t0\t0\t0\t213\t1380\t56\t47\t-1\t\n3\t1\t132\t1\t0\t0\t213\t1380\t56\t47\t-1\t\n4\t1\t132\t1\t1\t0\t213\t1380\t56\t47\t-1\t\n5\t1\t132\t1\t1\t1\t213\t1380\t56\t47\t54.922287\ta\n2\t1\t133\t0\t0\t0\t986\t1414\t12\t13\t-1\t\n3\t1\t133",
               "numbers": [
-                "137",
+                "132",
                 "213",
                 "1380",
                 "56",
                 "47",
-                "137",
+                "132",
                 "213",
                 "1380"
               ],
@@ -91,11 +91,11 @@
           },
           "unverified_lines": [
             {
-              "text": "音 /(66Om2) =",
+              "text": "音 /(66Om5) =",
               "numbers": [
                 "66"
               ],
-              "confidence": 33.2
+              "confidence": 31.8
             }
           ],
           "requires_human_review": true,
@@ -1134,7 +1134,7 @@
               "numbers": [
                 "88"
               ],
-              "confidence": 93.5
+              "confidence": 93.1
             }
           ],
           "requires_human_review": true,
