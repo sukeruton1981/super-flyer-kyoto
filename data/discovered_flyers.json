@@ -1,5 +1,5 @@
 {
-  "last_checked_at_jst": "2026-11-21T14:57:54+09:00",
+  "last_checked_at_jst": "2026-11-22T14:31:59+09:00",
   "checks": [
     {
       "shop": "スーパーマツモト 桂川店",
@@ -296,6 +296,18 @@
       "shop": "スーパーマツモト 桂川店",
       "url": "https://chirashi-guide.com/chirashi-file/2026/11/651/651-9873131_1149317_0.jpg",
       "first_seen_at_jst": "2026-11-21T14:57:54+09:00",
+      "status": "unverified"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/11/651/651-9876211_1069542_0.jpg",
+      "first_seen_at_jst": "2026-11-22T14:31:59+09:00",
+      "status": "unverified"
+    },
+    {
+      "shop": "スーパーマツモト 桂川店",
+      "url": "https://chirashi-guide.com/chirashi-file/2026/11/651/651-9876212_988330_0.jpg",
+      "first_seen_at_jst": "2026-11-22T14:31:59+09:00",
       "status": "unverified"
     }
   ],
